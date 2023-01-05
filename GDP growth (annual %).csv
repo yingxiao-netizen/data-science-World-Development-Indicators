@@ -1,0 +1,2627 @@
+﻿CountryName,CountryCode,IndicatorName,Year,Value
+East Asia & Pacific (all income levels),EAS,GDP growth (annual %),1961,6.780615176
+East Asia & Pacific (developing only),EAP,GDP growth (annual %),1961,-12.60033971
+Euro area,EMU,GDP growth (annual %),1961,6.661820532
+Europe & Central Asia (all income levels),ECS,GDP growth (annual %),1961,5.351691266
+European Union,EUU,GDP growth (annual %),1961,5.43934871
+Heavily indebted poor countries (HIPC),HPC,GDP growth (annual %),1961,0.13443396
+High income,HIC,GDP growth (annual %),1961,4.631966344
+High income: OECD,OEC,GDP growth (annual %),1961,4.622528715
+Latin America & Caribbean (all income levels),LCN,GDP growth (annual %),1961,6.271844908
+Latin America & Caribbean (developing only),LAC,GDP growth (annual %),1961,6.989583487
+Low & middle income,LMY,GDP growth (annual %),1961,1.604293983
+Lower middle income,LMC,GDP growth (annual %),1961,3.922424539
+Middle income,MIC,GDP growth (annual %),1961,1.754230021
+North America,NAC,GDP growth (annual %),1961,2.36982353
+OECD members,OED,GDP growth (annual %),1961,4.596494557
+South Asia,SAS,GDP growth (annual %),1961,4.136464497
+Sub-Saharan Africa (all income levels),SSF,GDP growth (annual %),1961,1.692823337
+Sub-Saharan Africa (developing only),SSA,GDP growth (annual %),1961,1.69935915
+Upper middle income,UMC,GDP growth (annual %),1961,0.884230762
+World,WLD,GDP growth (annual %),1961,4.28993992
+Algeria,DZA,GDP growth (annual %),1961,-13.60544133
+Argentina,ARG,GDP growth (annual %),1961,5.42784288
+Australia,AUS,GDP growth (annual %),1961,2.47592903
+Austria,AUT,GDP growth (annual %),1961,5.537979317
+"Bahamas, The",BHS,GDP growth (annual %),1961,10.66709743
+Bangladesh,BGD,GDP growth (annual %),1961,6.058160825
+Belgium,BEL,GDP growth (annual %),1961,4.978423063
+Belize,BLZ,GDP growth (annual %),1961,4.892277219
+Benin,BEN,GDP growth (annual %),1961,3.141280462
+Bermuda,BMU,GDP growth (annual %),1961,4.68
+Bolivia,BOL,GDP growth (annual %),1961,2.079983628
+Botswana,BWA,GDP growth (annual %),1961,6.343283719
+Brazil,BRA,GDP growth (annual %),1961,10.27591155
+Burkina Faso,BFA,GDP growth (annual %),1961,4.043927977
+Burundi,BDI,GDP growth (annual %),1961,-13.74613505
+Cameroon,CMR,GDP growth (annual %),1961,1.183680812
+Canada,CAN,GDP growth (annual %),1961,3.163291684
+Central African Republic,CAF,GDP growth (annual %),1961,4.953452755
+Chad,TCD,GDP growth (annual %),1961,1.397743671
+Chile,CHL,GDP growth (annual %),1961,4.049930947
+China,CHN,GDP growth (annual %),1961,-27.29999999
+Colombia,COL,GDP growth (annual %),1961,5.265372382
+"Congo, Dem. Rep.",ZAR,GDP growth (annual %),1961,-10.85137608
+"Congo, Rep.",COG,GDP growth (annual %),1961,8.350726724
+Costa Rica,CRI,GDP growth (annual %),1961,-0.955940448
+Cote d'Ivoire,CIV,GDP growth (annual %),1961,9.932555156
+Denmark,DNK,GDP growth (annual %),1961,6.378832476
+Dominican Republic,DOM,GDP growth (annual %),1961,-2.31324875
+Ecuador,ECU,GDP growth (annual %),1961,1.543078652
+Fiji,FJI,GDP growth (annual %),1961,3.517580341
+Finland,FIN,GDP growth (annual %),1961,7.604670479
+France,FRA,GDP growth (annual %),1961,5.506272437
+Gabon,GAB,GDP growth (annual %),1961,14.76684319
+Ghana,GHA,GDP growth (annual %),1961,3.429674012
+Greece,GRC,GDP growth (annual %),1961,11.1495374
+Guatemala,GTM,GDP growth (annual %),1961,4.298518348
+Guyana,GUY,GDP growth (annual %),1961,4.689524309
+Honduras,HND,GDP growth (annual %),1961,1.855659321
+Iceland,ISL,GDP growth (annual %),1961,-0.084661946
+India,IND,GDP growth (annual %),1961,3.722742532
+Indonesia,IDN,GDP growth (annual %),1961,6.10491537
+"Iran, Islamic Rep.",IRN,GDP growth (annual %),1961,10.39091835
+Israel,ISR,GDP growth (annual %),1961,11.20388576
+Italy,ITA,GDP growth (annual %),1961,8.207245914
+Japan,JPN,GDP growth (annual %),1961,12.04353641
+Kenya,KEN,GDP growth (annual %),1961,-7.774634904
+"Korea, Rep.",KOR,GDP growth (annual %),1961,4.936341931
+Lesotho,LSO,GDP growth (annual %),1961,1.864797762
+Liberia,LBR,GDP growth (annual %),1961,2.439985421
+Luxembourg,LUX,GDP growth (annual %),1961,3.829983122
+Madagascar,MDG,GDP growth (annual %),1961,2.048632751
+Malawi,MWI,GDP growth (annual %),1961,7.639597855
+Malaysia,MYS,GDP growth (annual %),1961,7.597993945
+Mauritania,MRT,GDP growth (annual %),1961,15.52991333
+Mexico,MEX,GDP growth (annual %),1961,5
+Morocco,MAR,GDP growth (annual %),1961,-2.425234333
+Myanmar,MMR,GDP growth (annual %),1961,0.471561079
+Nepal,NPL,GDP growth (annual %),1961,1.908265969
+Netherlands,NLD,GDP growth (annual %),1961,0.295546673
+Nicaragua,NIC,GDP growth (annual %),1961,7.400211918
+Niger,NER,GDP growth (annual %),1961,4.546393037
+Nigeria,NGA,GDP growth (annual %),1961,0.191795489
+Norway,NOR,GDP growth (annual %),1961,6.27333551
+Oman,OMN,GDP growth (annual %),1961,1.139666758
+Pakistan,PAK,GDP growth (annual %),1961,5.987346419
+Panama,PAN,GDP growth (annual %),1961,10.75135777
+Papua New Guinea,PNG,GDP growth (annual %),1961,6.18111172
+Paraguay,PRY,GDP growth (annual %),1961,6.900285516
+Peru,PER,GDP growth (annual %),1961,7.350052545
+Philippines,PHL,GDP growth (annual %),1961,5.616579319
+Portugal,PRT,GDP growth (annual %),1961,5.534903476
+Puerto Rico,PRI,GDP growth (annual %),1961,7.041735944
+Rwanda,RWA,GDP growth (annual %),1961,-4.297526058
+Senegal,SEN,GDP growth (annual %),1961,2.993448255
+Seychelles,SYC,GDP growth (annual %),1961,-4.882276361
+Sierra Leone,SLE,GDP growth (annual %),1961,1.80904355
+Singapore,SGP,GDP growth (annual %),1961,8.137624686
+Somalia,SOM,GDP growth (annual %),1961,-3.261981202
+South Africa,ZAF,GDP growth (annual %),1961,3.845403562
+Spain,ESP,GDP growth (annual %),1961,11.83867419
+St. Vincent and the Grenadines,VCT,GDP growth (annual %),1961,4.527283278
+Sudan,SDN,GDP growth (annual %),1961,0.022391334
+Sweden,SWE,GDP growth (annual %),1961,5.681537344
+Syrian Arab Republic,SYR,GDP growth (annual %),1961,10.8330639
+Thailand,THA,GDP growth (annual %),1961,5.362146302
+Togo,TGO,GDP growth (annual %),1961,12.16931737
+Trinidad and Tobago,TTO,GDP growth (annual %),1961,14.03707086
+Turkey,TUR,GDP growth (annual %),1961,1.156069388
+United Kingdom,GBR,GDP growth (annual %),1961,2.573569963
+United States,USA,GDP growth (annual %),1961,2.3
+Uruguay,URY,GDP growth (annual %),1961,2.493037918
+"Venezuela, RB",VEN,GDP growth (annual %),1961,3.192519348
+Zambia,ZMB,GDP growth (annual %),1961,1.361381816
+Zimbabwe,ZWE,GDP growth (annual %),1961,6.316157269
+East Asia & Pacific (all income levels),EAS,GDP growth (annual %),1962,6.575113848
+East Asia & Pacific (developing only),EAP,GDP growth (annual %),1962,-0.294509897
+Euro area,EMU,GDP growth (annual %),1962,6.395825187
+Europe & Central Asia (all income levels),ECS,GDP growth (annual %),1962,4.83835376
+European Union,EUU,GDP growth (annual %),1962,4.866433593
+Heavily indebted poor countries (HIPC),HPC,GDP growth (annual %),1962,7.213224674
+High income,HIC,GDP growth (annual %),1962,5.745236126
+High income: OECD,OEC,GDP growth (annual %),1962,5.803062676
+Latin America & Caribbean (all income levels),LCN,GDP growth (annual %),1962,4.628040654
+Latin America & Caribbean (developing only),LAC,GDP growth (annual %),1962,5.362684124
+Low & middle income,LMY,GDP growth (annual %),1962,4.042571527
+Lower middle income,LMC,GDP growth (annual %),1962,3.777031542
+Middle income,MIC,GDP growth (annual %),1962,3.846621701
+North America,NAC,GDP growth (annual %),1962,6.181294175
+OECD members,OED,GDP growth (annual %),1962,5.779330018
+South Asia,SAS,GDP growth (annual %),1962,3.340930274
+Sub-Saharan Africa (all income levels),SSF,GDP growth (annual %),1962,6.156839196
+Sub-Saharan Africa (developing only),SSA,GDP growth (annual %),1962,6.154745763
+Upper middle income,UMC,GDP growth (annual %),1962,3.875791405
+World,WLD,GDP growth (annual %),1962,5.557478524
+Algeria,DZA,GDP growth (annual %),1962,-19.68504182
+Argentina,ARG,GDP growth (annual %),1962,-0.852021523
+Australia,AUS,GDP growth (annual %),1962,1.327575239
+Austria,AUT,GDP growth (annual %),1962,2.648675113
+"Bahamas, The",BHS,GDP growth (annual %),1962,10.45197189
+Bangladesh,BGD,GDP growth (annual %),1962,5.45303097
+Belgium,BEL,GDP growth (annual %),1962,5.212003509
+Belize,BLZ,GDP growth (annual %),1962,4.89265218
+Benin,BEN,GDP growth (annual %),1962,-3.426409821
+Bermuda,BMU,GDP growth (annual %),1962,4.47
+Bolivia,BOL,GDP growth (annual %),1962,5.570225346
+Botswana,BWA,GDP growth (annual %),1962,6.666667814
+Brazil,BRA,GDP growth (annual %),1962,5.21605942
+Burkina Faso,BFA,GDP growth (annual %),1962,6.128798781
+Burundi,BDI,GDP growth (annual %),1962,9.063157935
+Cameroon,CMR,GDP growth (annual %),1962,3.041559051
+Canada,CAN,GDP growth (annual %),1962,7.116779267
+Central African Republic,CAF,GDP growth (annual %),1962,-3.713640127
+Chad,TCD,GDP growth (annual %),1962,5.360116109
+Chile,CHL,GDP growth (annual %),1962,5.193079542
+China,CHN,GDP growth (annual %),1962,-5.6
+Colombia,COL,GDP growth (annual %),1962,5.466500282
+"Congo, Dem. Rep.",ZAR,GDP growth (annual %),1962,21.20069751
+"Congo, Rep.",COG,GDP growth (annual %),1962,5.202308789
+Costa Rica,CRI,GDP growth (annual %),1962,8.148320012
+Cote d'Ivoire,CIV,GDP growth (annual %),1962,1.22699449
+Denmark,DNK,GDP growth (annual %),1962,5.666822173
+Dominican Republic,DOM,GDP growth (annual %),1962,17.04724093
+Ecuador,ECU,GDP growth (annual %),1962,4.558883964
+Fiji,FJI,GDP growth (annual %),1962,3.6061037
+Finland,FIN,GDP growth (annual %),1962,2.981945536
+France,FRA,GDP growth (annual %),1962,6.672174626
+Gabon,GAB,GDP growth (annual %),1962,7.449211606
+Ghana,GHA,GDP growth (annual %),1962,4.109158606
+Greece,GRC,GDP growth (annual %),1962,1.533518906
+Guatemala,GTM,GDP growth (annual %),1962,3.536501264
+Guyana,GUY,GDP growth (annual %),1962,1.104925811
+Honduras,HND,GDP growth (annual %),1962,5.764846041
+Iceland,ISL,GDP growth (annual %),1962,8.313712744
+India,IND,GDP growth (annual %),1962,2.931127737
+Indonesia,IDN,GDP growth (annual %),1962,1.909660225
+"Iran, Islamic Rep.",IRN,GDP growth (annual %),1962,7.90926793
+Israel,ISR,GDP growth (annual %),1962,10.1561172
+Italy,ITA,GDP growth (annual %),1962,6.203650458
+Japan,JPN,GDP growth (annual %),1962,8.908972996
+Kenya,KEN,GDP growth (annual %),1962,9.457358742
+"Korea, Rep.",KOR,GDP growth (annual %),1962,2.458360659
+Lesotho,LSO,GDP growth (annual %),1962,15.33181249
+Liberia,LBR,GDP growth (annual %),1962,1.344606077
+Luxembourg,LUX,GDP growth (annual %),1962,1.358677671
+Madagascar,MDG,GDP growth (annual %),1962,2.271069702
+Malawi,MWI,GDP growth (annual %),1962,0.668364742
+Malaysia,MYS,GDP growth (annual %),1962,6.421029733
+Mauritania,MRT,GDP growth (annual %),1962,0.726608375
+Mexico,MEX,GDP growth (annual %),1962,4.664414668
+Morocco,MAR,GDP growth (annual %),1962,12.51798415
+Myanmar,MMR,GDP growth (annual %),1962,4.08687253
+Nepal,NPL,GDP growth (annual %),1962,1.910320034
+Netherlands,NLD,GDP growth (annual %),1962,6.843507321
+Nicaragua,NIC,GDP growth (annual %),1962,11.69534898
+Niger,NER,GDP growth (annual %),1962,10.27871349
+Nigeria,NGA,GDP growth (annual %),1962,4.102992589
+Norway,NOR,GDP growth (annual %),1962,2.813945138
+Oman,OMN,GDP growth (annual %),1962,20.18775466
+Pakistan,PAK,GDP growth (annual %),1962,4.482858627
+Panama,PAN,GDP growth (annual %),1962,8.364807554
+Papua New Guinea,PNG,GDP growth (annual %),1962,6.374099317
+Paraguay,PRY,GDP growth (annual %),1962,3.300258518
+Peru,PER,GDP growth (annual %),1962,8.340192277
+Philippines,PHL,GDP growth (annual %),1962,4.773121848
+Portugal,PRT,GDP growth (annual %),1962,6.614447769
+Puerto Rico,PRI,GDP growth (annual %),1962,8.323315527
+Rwanda,RWA,GDP growth (annual %),1962,11.33379838
+Senegal,SEN,GDP growth (annual %),1962,-0.136235361
+Seychelles,SYC,GDP growth (annual %),1962,8.408581272
+Sierra Leone,SLE,GDP growth (annual %),1962,4.540967064
+Singapore,SGP,GDP growth (annual %),1962,7.121762697
+Somalia,SOM,GDP growth (annual %),1962,7.076655434
+South Africa,ZAF,GDP growth (annual %),1962,6.17727082
+Spain,ESP,GDP growth (annual %),1962,9.953438103
+Sri Lanka,LKA,GDP growth (annual %),1962,3.818019562
+St. Vincent and the Grenadines,VCT,GDP growth (annual %),1962,3.694261801
+Sudan,SDN,GDP growth (annual %),1962,6.915842154
+Sweden,SWE,GDP growth (annual %),1962,4.258772994
+Syrian Arab Republic,SYR,GDP growth (annual %),1962,24.52129717
+Thailand,THA,GDP growth (annual %),1962,7.554254448
+Togo,TGO,GDP growth (annual %),1962,3.773652832
+Trinidad and Tobago,TTO,GDP growth (annual %),1962,2.742463144
+Turkey,TUR,GDP growth (annual %),1962,5.571428583
+United Kingdom,GBR,GDP growth (annual %),1962,1.327993179
+United States,USA,GDP growth (annual %),1962,6.1
+Uruguay,URY,GDP growth (annual %),1962,-1.57454885
+"Venezuela, RB",VEN,GDP growth (annual %),1962,8.532933399
+Zambia,ZMB,GDP growth (annual %),1962,-2.49083954
+Zimbabwe,ZWE,GDP growth (annual %),1962,1.434470887
+East Asia & Pacific (all income levels),EAS,GDP growth (annual %),1963,8.009930017
+East Asia & Pacific (developing only),EAP,GDP growth (annual %),1963,6.492282337
+Euro area,EMU,GDP growth (annual %),1963,5.755561398
+Europe & Central Asia (all income levels),ECS,GDP growth (annual %),1963,5.159023117
+European Union,EUU,GDP growth (annual %),1963,5.092747368
+Heavily indebted poor countries (HIPC),HPC,GDP growth (annual %),1963,3.555270325
+High income,HIC,GDP growth (annual %),1963,5.112959654
+High income: OECD,OEC,GDP growth (annual %),1963,5.221798114
+Latin America & Caribbean (all income levels),LCN,GDP growth (annual %),1963,3.081295225
+Latin America & Caribbean (developing only),LAC,GDP growth (annual %),1963,4.434034841
+Low & middle income,LMY,GDP growth (annual %),1963,6.022527605
+Lower middle income,LMC,GDP growth (annual %),1963,4.760132748
+Middle income,MIC,GDP growth (annual %),1963,6.111473689
+North America,NAC,GDP growth (annual %),1963,4.462331579
+OECD members,OED,GDP growth (annual %),1963,5.311425519
+South Asia,SAS,GDP growth (annual %),1963,5.332037248
+Sub-Saharan Africa (all income levels),SSF,GDP growth (annual %),1963,6.21037871
+Sub-Saharan Africa (developing only),SSA,GDP growth (annual %),1963,6.206651969
+Upper middle income,UMC,GDP growth (annual %),1963,6.677368906
+World,WLD,GDP growth (annual %),1963,5.2118208
+Algeria,DZA,GDP growth (annual %),1963,34.31372877
+Argentina,ARG,GDP growth (annual %),1963,-5.308196827
+Australia,AUS,GDP growth (annual %),1963,6.212444386
+Austria,AUT,GDP growth (annual %),1963,4.138267582
+"Bahamas, The",BHS,GDP growth (annual %),1963,10.5240552
+Bangladesh,BGD,GDP growth (annual %),1963,-0.45589429
+Belgium,BEL,GDP growth (annual %),1963,4.351584282
+Belize,BLZ,GDP growth (annual %),1963,4.956434195
+Benin,BEN,GDP growth (annual %),1963,4.730027971
+Bermuda,BMU,GDP growth (annual %),1963,1.07
+Bolivia,BOL,GDP growth (annual %),1963,6.420701581
+Botswana,BWA,GDP growth (annual %),1963,5.921045096
+Brazil,BRA,GDP growth (annual %),1963,0.874672592
+Burkina Faso,BFA,GDP growth (annual %),1963,-1.268016373
+Burundi,BDI,GDP growth (annual %),1963,4.13540742
+Cameroon,CMR,GDP growth (annual %),1963,3.74255032
+Canada,CAN,GDP growth (annual %),1963,5.181776082
+Central African Republic,CAF,GDP growth (annual %),1963,-0.707243873
+Chad,TCD,GDP growth (annual %),1963,-1.599454015
+Chile,CHL,GDP growth (annual %),1963,6.116564836
+China,CHN,GDP growth (annual %),1963,10.19999998
+Colombia,COL,GDP growth (annual %),1963,2.904114678
+"Congo, Dem. Rep.",ZAR,GDP growth (annual %),1963,5.213990134
+"Congo, Rep.",COG,GDP growth (annual %),1963,-4.029300398
+Costa Rica,CRI,GDP growth (annual %),1963,4.784711575
+Cote d'Ivoire,CIV,GDP growth (annual %),1963,14.49035586
+Denmark,DNK,GDP growth (annual %),1963,0.637021234
+Dominican Republic,DOM,GDP growth (annual %),1963,6.50290263
+Ecuador,ECU,GDP growth (annual %),1963,3.875658364
+Fiji,FJI,GDP growth (annual %),1963,6.358770678
+Finland,FIN,GDP growth (annual %),1963,3.285099636
+France,FRA,GDP growth (annual %),1963,5.347173767
+Gabon,GAB,GDP growth (annual %),1963,6.092435277
+Ghana,GHA,GDP growth (annual %),1963,4.405974201
+Greece,GRC,GDP growth (annual %),1963,10.13605526
+Guatemala,GTM,GDP growth (annual %),1963,9.541043929
+Guyana,GUY,GDP growth (annual %),1963,-12.27865726
+Honduras,HND,GDP growth (annual %),1963,3.580436708
+Iceland,ISL,GDP growth (annual %),1963,10.28338287
+India,IND,GDP growth (annual %),1963,5.994353262
+Indonesia,IDN,GDP growth (annual %),1963,-2.253036563
+"Iran, Islamic Rep.",IRN,GDP growth (annual %),1963,7.042075229
+Israel,ISR,GDP growth (annual %),1963,10.69571298
+Italy,ITA,GDP growth (annual %),1963,5.609727978
+Japan,JPN,GDP growth (annual %),1963,8.473642383
+Kenya,KEN,GDP growth (annual %),1963,8.778340216
+"Korea, Rep.",KOR,GDP growth (annual %),1963,9.531721026
+Lesotho,LSO,GDP growth (annual %),1963,10.6150724
+Liberia,LBR,GDP growth (annual %),1963,2.274460637
+Luxembourg,LUX,GDP growth (annual %),1963,3.43910854
+Madagascar,MDG,GDP growth (annual %),1963,-0.929401624
+Malawi,MWI,GDP growth (annual %),1963,-1.391078501
+Malaysia,MYS,GDP growth (annual %),1963,7.338803399
+Mauritania,MRT,GDP growth (annual %),1963,-1.9837676
+Mexico,MEX,GDP growth (annual %),1963,8.10688693
+Morocco,MAR,GDP growth (annual %),1963,4.863604264
+Myanmar,MMR,GDP growth (annual %),1963,13.34929493
+Nepal,NPL,GDP growth (annual %),1963,1.895111643
+Netherlands,NLD,GDP growth (annual %),1963,3.62462153
+Nicaragua,NIC,GDP growth (annual %),1963,9.943178187
+Niger,NER,GDP growth (annual %),1963,9.428229321
+Nigeria,NGA,GDP growth (annual %),1963,8.57861892
+Norway,NOR,GDP growth (annual %),1963,3.785043084
+Oman,OMN,GDP growth (annual %),1963,4.53125
+Pakistan,PAK,GDP growth (annual %),1963,8.688831518
+Panama,PAN,GDP growth (annual %),1963,8.422617044
+Papua New Guinea,PNG,GDP growth (annual %),1963,4.07252177
+Paraguay,PRY,GDP growth (annual %),1963,4.71029134
+Peru,PER,GDP growth (annual %),1963,3.720546399
+Philippines,PHL,GDP growth (annual %),1963,7.060487423
+Portugal,PRT,GDP growth (annual %),1963,5.873702116
+Puerto Rico,PRI,GDP growth (annual %),1963,8.651045167
+Rwanda,RWA,GDP growth (annual %),1963,-9.820444419
+Senegal,SEN,GDP growth (annual %),1963,1.864478568
+Seychelles,SYC,GDP growth (annual %),1963,10.13560296
+Sierra Leone,SLE,GDP growth (annual %),1963,1.699715173
+Singapore,SGP,GDP growth (annual %),1963,9.984910883
+Somalia,SOM,GDP growth (annual %),1963,2.80880257
+South Africa,ZAF,GDP growth (annual %),1963,7.373563946
+Spain,ESP,GDP growth (annual %),1963,9.596498874
+Sri Lanka,LKA,GDP growth (annual %),1963,2.516748582
+St. Vincent and the Grenadines,VCT,GDP growth (annual %),1963,-6.265338526
+Sudan,SDN,GDP growth (annual %),1963,-2.84697168
+Sweden,SWE,GDP growth (annual %),1963,5.327897811
+Syrian Arab Republic,SYR,GDP growth (annual %),1963,-8.652746672
+Thailand,THA,GDP growth (annual %),1963,7.999830787
+Togo,TGO,GDP growth (annual %),1963,4.999694271
+Trinidad and Tobago,TTO,GDP growth (annual %),1963,5.604597247
+Turkey,TUR,GDP growth (annual %),1963,9.066305519
+United Kingdom,GBR,GDP growth (annual %),1963,3.956241167
+United States,USA,GDP growth (annual %),1963,4.4
+Uruguay,URY,GDP growth (annual %),1963,0.170458855
+"Venezuela, RB",VEN,GDP growth (annual %),1963,3.900951468
+Zambia,ZMB,GDP growth (annual %),1963,3.27239311
+Zimbabwe,ZWE,GDP growth (annual %),1963,6.244344507
+East Asia & Pacific (all income levels),EAS,GDP growth (annual %),1964,10.79602835
+East Asia & Pacific (developing only),EAP,GDP growth (annual %),1964,10.72772288
+Euro area,EMU,GDP growth (annual %),1964,5.487228259
+Europe & Central Asia (all income levels),ECS,GDP growth (annual %),1964,5.531398653
+European Union,EUU,GDP growth (annual %),1964,5.540647789
+Heavily indebted poor countries (HIPC),HPC,GDP growth (annual %),1964,3.656244472
+High income,HIC,GDP growth (annual %),1964,6.486994184
+High income: OECD,OEC,GDP growth (annual %),1964,6.417385289
+Latin America & Caribbean (all income levels),LCN,GDP growth (annual %),1964,7.933712182
+Latin America & Caribbean (developing only),LAC,GDP growth (annual %),1964,7.500858933
+Low & middle income,LMY,GDP growth (annual %),1964,7.535768432
+Lower middle income,LMC,GDP growth (annual %),1964,6.469399434
+Middle income,MIC,GDP growth (annual %),1964,7.766435655
+North America,NAC,GDP growth (annual %),1964,5.875393588
+OECD members,OED,GDP growth (annual %),1964,6.513914506
+South Asia,SAS,GDP growth (annual %),1964,7.751602008
+Sub-Saharan Africa (all income levels),SSF,GDP growth (annual %),1964,5.627538993
+Sub-Saharan Africa (developing only),SSA,GDP growth (annual %),1964,5.627251791
+Upper middle income,UMC,GDP growth (annual %),1964,8.299828195
+World,WLD,GDP growth (annual %),1964,6.601864053
+Algeria,DZA,GDP growth (annual %),1964,5.839413012
+Argentina,ARG,GDP growth (annual %),1964,10.13029766
+Australia,AUS,GDP growth (annual %),1964,6.976155075
+Austria,AUT,GDP growth (annual %),1964,6.124353738
+"Bahamas, The",BHS,GDP growth (annual %),1964,10.5015672
+Bangladesh,BGD,GDP growth (annual %),1964,10.95278855
+Belgium,BEL,GDP growth (annual %),1964,6.956684733
+Belize,BLZ,GDP growth (annual %),1964,4.99987991
+Benin,BEN,GDP growth (annual %),1964,6.650759111
+Bermuda,BMU,GDP growth (annual %),1964,11.11
+Bolivia,BOL,GDP growth (annual %),1964,4.794559575
+Botswana,BWA,GDP growth (annual %),1964,6.832300927
+Brazil,BRA,GDP growth (annual %),1964,3.485582304
+Burkina Faso,BFA,GDP growth (annual %),1964,2.282819223
+Burundi,BDI,GDP growth (annual %),1964,6.273037903
+Cameroon,CMR,GDP growth (annual %),1964,3.547159696
+Canada,CAN,GDP growth (annual %),1964,6.699456682
+Central African Republic,CAF,GDP growth (annual %),1964,2.080361128
+Chad,TCD,GDP growth (annual %),1964,-2.510939603
+Chile,CHL,GDP growth (annual %),1964,2.667871666
+China,CHN,GDP growth (annual %),1964,18.3
+Colombia,COL,GDP growth (annual %),1964,6.602341595
+"Congo, Dem. Rep.",ZAR,GDP growth (annual %),1964,-2.440223564
+"Congo, Rep.",COG,GDP growth (annual %),1964,3.816796268
+Costa Rica,CRI,GDP growth (annual %),1964,4.149052118
+Cote d'Ivoire,CIV,GDP growth (annual %),1964,17.61308783
+Denmark,DNK,GDP growth (annual %),1964,9.269938215
+Dominican Republic,DOM,GDP growth (annual %),1964,6.764865116
+Ecuador,ECU,GDP growth (annual %),1964,7.811889623
+Fiji,FJI,GDP growth (annual %),1964,4.87728137
+Finland,FIN,GDP growth (annual %),1964,5.238686598
+France,FRA,GDP growth (annual %),1964,6.518338303
+Gabon,GAB,GDP growth (annual %),1964,4.554453644
+Ghana,GHA,GDP growth (annual %),1964,2.209327505
+Greece,GRC,GDP growth (annual %),1964,8.258340252
+Guatemala,GTM,GDP growth (annual %),1964,4.632992432
+Guyana,GUY,GDP growth (annual %),1964,11.36028238
+Honduras,HND,GDP growth (annual %),1964,5.416645571
+Iceland,ISL,GDP growth (annual %),1964,9.916544014
+India,IND,GDP growth (annual %),1964,7.452950122
+Indonesia,IDN,GDP growth (annual %),1964,3.451465796
+"Iran, Islamic Rep.",IRN,GDP growth (annual %),1964,8.475228249
+Israel,ISR,GDP growth (annual %),1964,7.937192023
+Italy,ITA,GDP growth (annual %),1964,2.797702279
+Japan,JPN,GDP growth (annual %),1964,11.6767082
+Kenya,KEN,GDP growth (annual %),1964,4.964467288
+"Korea, Rep.",KOR,GDP growth (annual %),1964,7.561239115
+Lesotho,LSO,GDP growth (annual %),1964,8.251116828
+Liberia,LBR,GDP growth (annual %),1964,5.151961324
+Luxembourg,LUX,GDP growth (annual %),1964,7.865828819
+Madagascar,MDG,GDP growth (annual %),1964,3.962518848
+Malawi,MWI,GDP growth (annual %),1964,2.6611033
+Malaysia,MYS,GDP growth (annual %),1964,5.35896305
+Mauritania,MRT,GDP growth (annual %),1964,27.69088639
+Mexico,MEX,GDP growth (annual %),1964,11.90548076
+Morocco,MAR,GDP growth (annual %),1964,1.286363193
+Myanmar,MMR,GDP growth (annual %),1964,-5.89401884
+Nepal,NPL,GDP growth (annual %),1964,7.532448553
+Netherlands,NLD,GDP growth (annual %),1964,8.274903931
+Nicaragua,NIC,GDP growth (annual %),1964,11.11113587
+Niger,NER,GDP growth (annual %),1964,0.13103989
+Nigeria,NGA,GDP growth (annual %),1964,4.950488659
+Norway,NOR,GDP growth (annual %),1964,5.009650987
+Oman,OMN,GDP growth (annual %),1964,0.074712741
+Pakistan,PAK,GDP growth (annual %),1964,7.569757449
+Panama,PAN,GDP growth (annual %),1964,4.530024974
+Papua New Guinea,PNG,GDP growth (annual %),1964,8.570281528
+Paraguay,PRY,GDP growth (annual %),1964,4.212477357
+Peru,PER,GDP growth (annual %),1964,6.600281714
+Philippines,PHL,GDP growth (annual %),1964,3.446982145
+Portugal,PRT,GDP growth (annual %),1964,6.310747383
+Puerto Rico,PRI,GDP growth (annual %),1964,7.06092447
+Rwanda,RWA,GDP growth (annual %),1964,-12.46499268
+Senegal,SEN,GDP growth (annual %),1964,3.883927104
+Seychelles,SYC,GDP growth (annual %),1964,5.919246456
+Sierra Leone,SLE,GDP growth (annual %),1964,6.685238791
+Singapore,SGP,GDP growth (annual %),1964,-3.680475326
+Somalia,SOM,GDP growth (annual %),1964,-6.11062333
+South Africa,ZAF,GDP growth (annual %),1964,7.939841291
+Spain,ESP,GDP growth (annual %),1964,5.308510246
+Sri Lanka,LKA,GDP growth (annual %),1964,3.906489058
+St. Vincent and the Grenadines,VCT,GDP growth (annual %),1964,3.669725565
+Sudan,SDN,GDP growth (annual %),1964,-1.120449118
+Sweden,SWE,GDP growth (annual %),1964,6.821456714
+Syrian Arab Republic,SYR,GDP growth (annual %),1964,9.271363802
+Thailand,THA,GDP growth (annual %),1964,6.830996144
+Togo,TGO,GDP growth (annual %),1964,14.28601126
+Trinidad and Tobago,TTO,GDP growth (annual %),1964,7.630499772
+Turkey,TUR,GDP growth (annual %),1964,5.459056843
+United Kingdom,GBR,GDP growth (annual %),1964,5.038282449
+United States,USA,GDP growth (annual %),1964,5.8
+Uruguay,URY,GDP growth (annual %),1964,2.44052078
+"Venezuela, RB",VEN,GDP growth (annual %),1964,11.1293449
+Zambia,ZMB,GDP growth (annual %),1964,12.21404785
+Zimbabwe,ZWE,GDP growth (annual %),1964,-1.106171859
+East Asia & Pacific (all income levels),EAS,GDP growth (annual %),1965,6.4246416
+East Asia & Pacific (developing only),EAP,GDP growth (annual %),1965,10.60514805
+Euro area,EMU,GDP growth (annual %),1965,4.958872966
+Europe & Central Asia (all income levels),ECS,GDP growth (annual %),1965,4.309546514
+European Union,EUU,GDP growth (annual %),1965,4.320208259
+Heavily indebted poor countries (HIPC),HPC,GDP growth (annual %),1965,4.065197989
+High income,HIC,GDP growth (annual %),1965,5.549491587
+High income: OECD,OEC,GDP growth (annual %),1965,5.487651761
+Latin America & Caribbean (all income levels),LCN,GDP growth (annual %),1965,5.500118915
+Latin America & Caribbean (developing only),LAC,GDP growth (annual %),1965,4.925999105
+Low & middle income,LMY,GDP growth (annual %),1965,5.428750051
+Lower middle income,LMC,GDP growth (annual %),1965,1.276887016
+Middle income,MIC,GDP growth (annual %),1965,5.512880135
+North America,NAC,GDP growth (annual %),1965,6.418909991
+OECD members,OED,GDP growth (annual %),1965,5.495049656
+South Asia,SAS,GDP growth (annual %),1965,-0.980102377
+Sub-Saharan Africa (all income levels),SSF,GDP growth (annual %),1965,6.283635097
+Sub-Saharan Africa (developing only),SSA,GDP growth (annual %),1965,6.290885874
+Upper middle income,UMC,GDP growth (annual %),1965,7.225445338
+World,WLD,GDP growth (annual %),1965,5.536151184
+Algeria,DZA,GDP growth (annual %),1965,6.206898209
+Argentina,ARG,GDP growth (annual %),1965,10.56943334
+Australia,AUS,GDP growth (annual %),1965,5.980019699
+Austria,AUT,GDP growth (annual %),1965,3.480174918
+"Bahamas, The",BHS,GDP growth (annual %),1965,10.42559649
+Bangladesh,BGD,GDP growth (annual %),1965,1.606258229
+Belgium,BEL,GDP growth (annual %),1965,3.56065984
+Belize,BLZ,GDP growth (annual %),1965,4.930540961
+Benin,BEN,GDP growth (annual %),1965,5.29386284
+Bermuda,BMU,GDP growth (annual %),1965,4.76
+Bolivia,BOL,GDP growth (annual %),1965,5.625017746
+Botswana,BWA,GDP growth (annual %),1965,5.813955063
+Brazil,BRA,GDP growth (annual %),1965,3.053487894
+Burkina Faso,BFA,GDP growth (annual %),1965,3.764545381
+Burundi,BDI,GDP growth (annual %),1965,3.967225609
+Cameroon,CMR,GDP growth (annual %),1965,2.026053715
+Canada,CAN,GDP growth (annual %),1965,6.636545139
+Central African Republic,CAF,GDP growth (annual %),1965,0.947568959
+Chad,TCD,GDP growth (annual %),1965,0.606227786
+Chile,CHL,GDP growth (annual %),1965,0.417175015
+China,CHN,GDP growth (annual %),1965,17
+Colombia,COL,GDP growth (annual %),1965,3.012487197
+"Congo, Dem. Rep.",ZAR,GDP growth (annual %),1965,0.997348794
+"Congo, Rep.",COG,GDP growth (annual %),1965,3.676467736
+Costa Rica,CRI,GDP growth (annual %),1965,9.829617278
+Cote d'Ivoire,CIV,GDP growth (annual %),1965,-3.109654273
+Denmark,DNK,GDP growth (annual %),1965,4.555254814
+Dominican Republic,DOM,GDP growth (annual %),1965,-12.48183392
+Ecuador,ECU,GDP growth (annual %),1965,4.717973158
+Fiji,FJI,GDP growth (annual %),1965,-2.700268677
+Finland,FIN,GDP growth (annual %),1965,5.302857802
+France,FRA,GDP growth (annual %),1965,4.778035177
+Gabon,GAB,GDP growth (annual %),1965,8.333335657
+Ghana,GHA,GDP growth (annual %),1965,1.36899887
+Greece,GRC,GDP growth (annual %),1965,9.39266085
+Guatemala,GTM,GDP growth (annual %),1965,4.361769315
+Guyana,GUY,GDP growth (annual %),1965,10.54101876
+Honduras,HND,GDP growth (annual %),1965,9.037156489
+Iceland,ISL,GDP growth (annual %),1965,7.371729299
+India,IND,GDP growth (annual %),1965,-2.635770112
+Indonesia,IDN,GDP growth (annual %),1965,0.947080215
+"Iran, Islamic Rep.",IRN,GDP growth (annual %),1965,17.03571152
+Israel,ISR,GDP growth (annual %),1965,9.093965656
+Italy,ITA,GDP growth (annual %),1965,3.26802372
+Japan,JPN,GDP growth (annual %),1965,5.819707873
+Kenya,KEN,GDP growth (annual %),1965,2.009094171
+"Korea, Rep.",KOR,GDP growth (annual %),1965,5.19013987
+Lesotho,LSO,GDP growth (annual %),1965,2.154104509
+Liberia,LBR,GDP growth (annual %),1965,4.793786277
+Luxembourg,LUX,GDP growth (annual %),1965,-0.734933604
+Madagascar,MDG,GDP growth (annual %),1965,-0.452253864
+Malawi,MWI,GDP growth (annual %),1965,13.61649338
+Malaysia,MYS,GDP growth (annual %),1965,7.684863416
+Mauritania,MRT,GDP growth (annual %),1965,16.13833044
+Mexico,MEX,GDP growth (annual %),1965,7.1
+Myanmar,MMR,GDP growth (annual %),1965,10.69264951
+Nepal,NPL,GDP growth (annual %),1965,-1.203189017
+Netherlands,NLD,GDP growth (annual %),1965,8.643094936
+Nicaragua,NIC,GDP growth (annual %),1965,9.00386112
+Niger,NER,GDP growth (annual %),1965,6.919761819
+Nigeria,NGA,GDP growth (annual %),1965,4.884976838
+Norway,NOR,GDP growth (annual %),1965,5.285608801
+Oman,OMN,GDP growth (annual %),1965,189.8299258
+Pakistan,PAK,GDP growth (annual %),1965,10.41936582
+Panama,PAN,GDP growth (annual %),1965,9.134399152
+Papua New Guinea,PNG,GDP growth (annual %),1965,10.26851981
+Paraguay,PRY,GDP growth (annual %),1965,6.167974759
+Peru,PER,GDP growth (annual %),1965,4.939242858
+Philippines,PHL,GDP growth (annual %),1965,5.265810464
+Portugal,PRT,GDP growth (annual %),1965,7.46898853
+Puerto Rico,PRI,GDP growth (annual %),1965,9.204842574
+Rwanda,RWA,GDP growth (annual %),1965,7.009529256
+Senegal,SEN,GDP growth (annual %),1965,1.33218949
+Seychelles,SYC,GDP growth (annual %),1965,-1.060571097
+Sierra Leone,SLE,GDP growth (annual %),1965,7.180155792
+Singapore,SGP,GDP growth (annual %),1965,7.597241261
+Somalia,SOM,GDP growth (annual %),1965,-5.943681493
+South Africa,ZAF,GDP growth (annual %),1965,8.896030616
+Spain,ESP,GDP growth (annual %),1965,6.253134899
+Sri Lanka,LKA,GDP growth (annual %),1965,2.536964176
+St. Vincent and the Grenadines,VCT,GDP growth (annual %),1965,0.884935067
+Sudan,SDN,GDP growth (annual %),1965,6.777074073
+Sweden,SWE,GDP growth (annual %),1965,3.821453148
+Syrian Arab Republic,SYR,GDP growth (annual %),1965,2.299373875
+Thailand,THA,GDP growth (annual %),1965,8.181661538
+Togo,TGO,GDP growth (annual %),1965,15.45971271
+Trinidad and Tobago,TTO,GDP growth (annual %),1965,0.693850282
+Turkey,TUR,GDP growth (annual %),1965,2.823529483
+United Kingdom,GBR,GDP growth (annual %),1965,2.788976828
+United States,USA,GDP growth (annual %),1965,6.4
+Uruguay,URY,GDP growth (annual %),1965,1.045604053
+"Venezuela, RB",VEN,GDP growth (annual %),1965,4.162866842
+Zambia,ZMB,GDP growth (annual %),1965,16.64745583
+Zimbabwe,ZWE,GDP growth (annual %),1965,4.910570587
+East Asia & Pacific (all income levels),EAS,GDP growth (annual %),1966,9.290494936
+East Asia & Pacific (developing only),EAP,GDP growth (annual %),1966,8.208916264
+Euro area,EMU,GDP growth (annual %),1966,5.260837875
+Europe & Central Asia (all income levels),ECS,GDP growth (annual %),1966,4.365439281
+European Union,EUU,GDP growth (annual %),1966,4.20163974
+Heavily indebted poor countries (HIPC),HPC,GDP growth (annual %),1966,3.157230126
+High income,HIC,GDP growth (annual %),1966,5.920172381
+High income: OECD,OEC,GDP growth (annual %),1966,6.019310874
+Latin America & Caribbean (all income levels),LCN,GDP growth (annual %),1966,4.361883679
+Latin America & Caribbean (developing only),LAC,GDP growth (annual %),1966,5.411208817
+Low & middle income,LMY,GDP growth (annual %),1966,5.161956854
+Lower middle income,LMC,GDP growth (annual %),1966,1.347260571
+Middle East & North Africa (developing only),MNA,GDP growth (annual %),1966,5.379934834
+Middle income,MIC,GDP growth (annual %),1966,5.177843364
+North America,NAC,GDP growth (annual %),1966,6.509801805
+OECD members,OED,GDP growth (annual %),1966,6.068819493
+South Asia,SAS,GDP growth (annual %),1966,0.974500731
+Sub-Saharan Africa (all income levels),SSF,GDP growth (annual %),1966,2.570076215
+Sub-Saharan Africa (developing only),SSA,GDP growth (annual %),1966,2.559667284
+Upper middle income,UMC,GDP growth (annual %),1966,6.753310088
+World,WLD,GDP growth (annual %),1966,5.834650255
+Algeria,DZA,GDP growth (annual %),1966,-4.80497094
+Argentina,ARG,GDP growth (annual %),1966,-0.659726172
+Australia,AUS,GDP growth (annual %),1966,2.365193062
+Austria,AUT,GDP growth (annual %),1966,5.642861411
+"Bahamas, The",BHS,GDP growth (annual %),1966,9.071928711
+Bangladesh,BGD,GDP growth (annual %),1966,2.566812001
+Belgium,BEL,GDP growth (annual %),1966,3.155894982
+Belize,BLZ,GDP growth (annual %),1966,4.770845113
+Benin,BEN,GDP growth (annual %),1966,3.575862727
+Bermuda,BMU,GDP growth (annual %),1966,14.36363636
+Bolivia,BOL,GDP growth (annual %),1966,6.497295733
+Botswana,BWA,GDP growth (annual %),1966,6.344019093
+Brazil,BRA,GDP growth (annual %),1966,4.150360233
+Burkina Faso,BFA,GDP growth (annual %),1966,0.537613083
+Burundi,BDI,GDP growth (annual %),1966,4.612992896
+Cameroon,CMR,GDP growth (annual %),1966,4.614955621
+Canada,CAN,GDP growth (annual %),1966,6.584965408
+Central African Republic,CAF,GDP growth (annual %),1966,0.644999293
+Chad,TCD,GDP growth (annual %),1966,-1.807092392
+Chile,CHL,GDP growth (annual %),1966,10.00160607
+China,CHN,GDP growth (annual %),1966,10.70000001
+Colombia,COL,GDP growth (annual %),1966,5.322368129
+"Congo, Dem. Rep.",ZAR,GDP growth (annual %),1966,6.775485302
+"Congo, Rep.",COG,GDP growth (annual %),1966,1.358982462
+Costa Rica,CRI,GDP growth (annual %),1966,7.870708094
+Cote d'Ivoire,CIV,GDP growth (annual %),1966,11.57735969
+Denmark,DNK,GDP growth (annual %),1966,2.740910109
+Dominican Republic,DOM,GDP growth (annual %),1966,13.46334483
+Ecuador,ECU,GDP growth (annual %),1966,-0.339525639
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),1966,1.056646077
+El Salvador,SLV,GDP growth (annual %),1966,7.16113774
+Fiji,FJI,GDP growth (annual %),1966,0
+Finland,FIN,GDP growth (annual %),1966,2.372823015
+France,FRA,GDP growth (annual %),1966,5.214008052
+French Polynesia,PYF,GDP growth (annual %),1966,9.576578233
+Gabon,GAB,GDP growth (annual %),1966,4.50800457
+Georgia,GEO,GDP growth (annual %),1966,7.535631294
+Ghana,GHA,GDP growth (annual %),1966,-4.258290372
+Greece,GRC,GDP growth (annual %),1966,6.098846533
+Guatemala,GTM,GDP growth (annual %),1966,5.512103989
+Guyana,GUY,GDP growth (annual %),1966,5.233273894
+Honduras,HND,GDP growth (annual %),1966,5.373842271
+"Hong Kong SAR, China",HKG,GDP growth (annual %),1966,1.794498026
+Iceland,ISL,GDP growth (annual %),1966,8.735933476
+India,IND,GDP growth (annual %),1966,-0.05532877
+Indonesia,IDN,GDP growth (annual %),1966,2.850428259
+"Iran, Islamic Rep.",IRN,GDP growth (annual %),1966,11.50240728
+Israel,ISR,GDP growth (annual %),1966,-0.079644919
+Italy,ITA,GDP growth (annual %),1966,5.984794225
+Japan,JPN,GDP growth (annual %),1966,10.63856156
+Kenya,KEN,GDP growth (annual %),1966,14.7285664
+"Korea, Rep.",KOR,GDP growth (annual %),1966,12.69999988
+Kuwait,KWT,GDP growth (annual %),1966,12.31556112
+Lesotho,LSO,GDP growth (annual %),1966,-0.405521492
+Liberia,LBR,GDP growth (annual %),1966,7.702655981
+Luxembourg,LUX,GDP growth (annual %),1966,1.105904112
+Madagascar,MDG,GDP growth (annual %),1966,2.064552407
+Malawi,MWI,GDP growth (annual %),1966,13.24903635
+Malaysia,MYS,GDP growth (annual %),1966,7.816711115
+Mauritania,MRT,GDP growth (annual %),1966,0.230962003
+Mexico,MEX,GDP growth (annual %),1966,6.096139301
+Myanmar,MMR,GDP growth (annual %),1966,-4.851778704
+Nepal,NPL,GDP growth (annual %),1966,7.040643143
+Netherlands,NLD,GDP growth (annual %),1966,2.741104335
+New Caledonia,NCL,GDP growth (annual %),1966,-3.848577701
+Nicaragua,NIC,GDP growth (annual %),1966,3.301136398
+Niger,NER,GDP growth (annual %),1966,-0.382497198
+Nigeria,NGA,GDP growth (annual %),1966,-4.250514188
+Norway,NOR,GDP growth (annual %),1966,3.786513255
+Oman,OMN,GDP growth (annual %),1966,5.204463599
+Pakistan,PAK,GDP growth (annual %),1966,5.789951801
+Panama,PAN,GDP growth (annual %),1966,7.519305364
+Papua New Guinea,PNG,GDP growth (annual %),1966,5.813757985
+Paraguay,PRY,GDP growth (annual %),1966,1.991503335
+Peru,PER,GDP growth (annual %),1966,8.394879385
+Philippines,PHL,GDP growth (annual %),1966,4.425994174
+Portugal,PRT,GDP growth (annual %),1966,4.077909434
+Puerto Rico,PRI,GDP growth (annual %),1966,7.499146556
+Rwanda,RWA,GDP growth (annual %),1966,7.008910829
+Senegal,SEN,GDP growth (annual %),1966,2.876760975
+Seychelles,SYC,GDP growth (annual %),1966,13.89650757
+Sierra Leone,SLE,GDP growth (annual %),1966,1.699999998
+Singapore,SGP,GDP growth (annual %),1966,10.87190206
+Somalia,SOM,GDP growth (annual %),1966,9.098654708
+South Africa,ZAF,GDP growth (annual %),1966,4.438444965
+Spain,ESP,GDP growth (annual %),1966,7.24606031
+Sri Lanka,LKA,GDP growth (annual %),1966,5.023798063
+St. Vincent and the Grenadines,VCT,GDP growth (annual %),1966,0
+Sudan,SDN,GDP growth (annual %),1966,-3.575147486
+Sweden,SWE,GDP growth (annual %),1966,2.090836479
+Syrian Arab Republic,SYR,GDP growth (annual %),1966,-7.65906551
+Thailand,THA,GDP growth (annual %),1966,11.12251849
+Togo,TGO,GDP growth (annual %),1966,9.408719101
+Trinidad and Tobago,TTO,GDP growth (annual %),1966,4.056821561
+Tunisia,TUN,GDP growth (annual %),1966,3.454867744
+Turkey,TUR,GDP growth (annual %),1966,11.21281508
+United Kingdom,GBR,GDP growth (annual %),1966,2.049311178
+United States,USA,GDP growth (annual %),1966,6.5
+Uruguay,URY,GDP growth (annual %),1966,3.062855935
+"Venezuela, RB",VEN,GDP growth (annual %),1966,1.510250222
+Zambia,ZMB,GDP growth (annual %),1966,-5.570309604
+Zimbabwe,ZWE,GDP growth (annual %),1966,1.523130026
+Caribbean small states,CSS,GDP growth (annual %),1967,3.352920893
+East Asia & Pacific (all income levels),EAS,GDP growth (annual %),1967,8.944928148
+East Asia & Pacific (developing only),EAP,GDP growth (annual %),1967,-0.92917442
+Euro area,EMU,GDP growth (annual %),1967,5.261750637
+Europe & Central Asia (all income levels),ECS,GDP growth (annual %),1967,4.414975333
+European Union,EUU,GDP growth (annual %),1967,4.367622991
+Heavily indebted poor countries (HIPC),HPC,GDP growth (annual %),1967,2.070924694
+High income,HIC,GDP growth (annual %),1967,4.419372919
+High income: OECD,OEC,GDP growth (annual %),1967,4.424441561
+Latin America & Caribbean (all income levels),LCN,GDP growth (annual %),1967,4.566146439
+Latin America & Caribbean (developing only),LAC,GDP growth (annual %),1967,5.206370515
+Low & middle income,LMY,GDP growth (annual %),1967,4.193404012
+Lower middle income,LMC,GDP growth (annual %),1967,3.193488788
+Middle East & North Africa (developing only),MNA,GDP growth (annual %),1967,8.976993339
+Middle income,MIC,GDP growth (annual %),1967,4.258502687
+North America,NAC,GDP growth (annual %),1967,2.538425497
+OECD members,OED,GDP growth (annual %),1967,4.456814386
+South Asia,SAS,GDP growth (annual %),1967,6.326174295
+Sub-Saharan Africa (all income levels),SSF,GDP growth (annual %),1967,1.533377707
+Sub-Saharan Africa (developing only),SSA,GDP growth (annual %),1967,1.534426704
+Upper middle income,UMC,GDP growth (annual %),1967,4.684203604
+World,WLD,GDP growth (annual %),1967,4.393749739
+Algeria,DZA,GDP growth (annual %),1967,9.452962559
+Argentina,ARG,GDP growth (annual %),1967,3.191996623
+Australia,AUS,GDP growth (annual %),1967,6.297055511
+Austria,AUT,GDP growth (annual %),1967,3.008047798
+"Bahamas, The",BHS,GDP growth (annual %),1967,9.598113867
+Bangladesh,BGD,GDP growth (annual %),1967,-1.87586392
+Belgium,BEL,GDP growth (annual %),1967,3.868146947
+Belize,BLZ,GDP growth (annual %),1967,4.913123162
+Benin,BEN,GDP growth (annual %),1967,1.078398672
+Bermuda,BMU,GDP growth (annual %),1967,13.27503975
+Bolivia,BOL,GDP growth (annual %),1967,6.908867936
+Botswana,BWA,GDP growth (annual %),1967,5.924559943
+Brazil,BRA,GDP growth (annual %),1967,4.915265675
+Burkina Faso,BFA,GDP growth (annual %),1967,8.823314975
+Burundi,BDI,GDP growth (annual %),1967,13.8215186
+Cameroon,CMR,GDP growth (annual %),1967,-10.91206559
+Canada,CAN,GDP growth (annual %),1967,2.91531036
+Central African Republic,CAF,GDP growth (annual %),1967,4.67651461
+Chad,TCD,GDP growth (annual %),1967,0.767201382
+Chile,CHL,GDP growth (annual %),1967,3.640783319
+China,CHN,GDP growth (annual %),1967,-5.700000001
+Colombia,COL,GDP growth (annual %),1967,4.190635447
+"Congo, Dem. Rep.",ZAR,GDP growth (annual %),1967,-0.985738661
+"Congo, Rep.",COG,GDP growth (annual %),1967,2.116272058
+Costa Rica,CRI,GDP growth (annual %),1967,5.650125928
+Cote d'Ivoire,CIV,GDP growth (annual %),1967,4.598151785
+Denmark,DNK,GDP growth (annual %),1967,3.421605092
+Dominican Republic,DOM,GDP growth (annual %),1967,3.327542288
+Ecuador,ECU,GDP growth (annual %),1967,4.621073941
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),1967,0.625935028
+El Salvador,SLV,GDP growth (annual %),1967,5.436848851
+Fiji,FJI,GDP growth (annual %),1967,13.35183275
+Finland,FIN,GDP growth (annual %),1967,2.168828883
+France,FRA,GDP growth (annual %),1967,4.688158821
+French Polynesia,PYF,GDP growth (annual %),1967,-4.739166615
+Gabon,GAB,GDP growth (annual %),1967,4.115152848
+"Gambia, The",GMB,GDP growth (annual %),1967,0
+Georgia,GEO,GDP growth (annual %),1967,6.249999544
+Ghana,GHA,GDP growth (annual %),1967,3.075364052
+Greece,GRC,GDP growth (annual %),1967,5.481437166
+Guatemala,GTM,GDP growth (annual %),1967,4.112175617
+Guyana,GUY,GDP growth (annual %),1967,4.31362183
+Honduras,HND,GDP growth (annual %),1967,5.977542858
+"Hong Kong SAR, China",HKG,GDP growth (annual %),1967,1.603316485
+Iceland,ISL,GDP growth (annual %),1967,-1.267261863
+India,IND,GDP growth (annual %),1967,7.825963033
+Indonesia,IDN,GDP growth (annual %),1967,1.124996921
+"Iran, Islamic Rep.",IRN,GDP growth (annual %),1967,11.2528031
+Israel,ISR,GDP growth (annual %),1967,2.995020187
+Italy,ITA,GDP growth (annual %),1967,7.178612466
+Jamaica,JAM,GDP growth (annual %),1967,1.808638519
+Japan,JPN,GDP growth (annual %),1967,11.08214232
+Kenya,KEN,GDP growth (annual %),1967,3.361232032
+"Korea, Rep.",KOR,GDP growth (annual %),1967,6.100038124
+Kuwait,KWT,GDP growth (annual %),1967,2.380541166
+Lesotho,LSO,GDP growth (annual %),1967,10.91206343
+Liberia,LBR,GDP growth (annual %),1967,6.745790859
+Luxembourg,LUX,GDP growth (annual %),1967,0.216730812
+Madagascar,MDG,GDP growth (annual %),1967,5.52856561
+Malawi,MWI,GDP growth (annual %),1967,7.281549919
+Malaysia,MYS,GDP growth (annual %),1967,3.857146425
+Mauritania,MRT,GDP growth (annual %),1967,3.567132911
+Mexico,MEX,GDP growth (annual %),1967,5.854924878
+Morocco,MAR,GDP growth (annual %),1967,10.02884141
+Myanmar,MMR,GDP growth (annual %),1967,-5.925258884
+Nepal,NPL,GDP growth (annual %),1967,-1.571497498
+Netherlands,NLD,GDP growth (annual %),1967,5.280014747
+New Caledonia,NCL,GDP growth (annual %),1967,5.400791443
+Nicaragua,NIC,GDP growth (annual %),1967,6.969513825
+Niger,NER,GDP growth (annual %),1967,0.12286867
+Nigeria,NGA,GDP growth (annual %),1967,-15.74362821
+Norway,NOR,GDP growth (annual %),1967,6.256079006
+Oman,OMN,GDP growth (annual %),1967,66.21908378
+Pakistan,PAK,GDP growth (annual %),1967,5.400612597
+Panama,PAN,GDP growth (annual %),1967,8.565880647
+Papua New Guinea,PNG,GDP growth (annual %),1967,4.070461474
+Paraguay,PRY,GDP growth (annual %),1967,9.150367203
+Peru,PER,GDP growth (annual %),1967,3.774703476
+Philippines,PHL,GDP growth (annual %),1967,5.324150188
+Portugal,PRT,GDP growth (annual %),1967,7.544482529
+Puerto Rico,PRI,GDP growth (annual %),1967,6.223225202
+Rwanda,RWA,GDP growth (annual %),1967,6.9160175
+Senegal,SEN,GDP growth (annual %),1967,-1.219792865
+Seychelles,SYC,GDP growth (annual %),1967,0.504739463
+Sierra Leone,SLE,GDP growth (annual %),1967,0.036281553
+Singapore,SGP,GDP growth (annual %),1967,12.28353667
+Somalia,SOM,GDP growth (annual %),1967,5.940943617
+South Africa,ZAF,GDP growth (annual %),1967,7.196497102
+Spain,ESP,GDP growth (annual %),1967,4.340338417
+Sri Lanka,LKA,GDP growth (annual %),1967,6.439015065
+St. Vincent and the Grenadines,VCT,GDP growth (annual %),1967,-9.523813464
+Sudan,SDN,GDP growth (annual %),1967,1.424081282
+Sweden,SWE,GDP growth (annual %),1967,3.365497939
+Syrian Arab Republic,SYR,GDP growth (annual %),1967,8.257682647
+Thailand,THA,GDP growth (annual %),1967,8.615982333
+Togo,TGO,GDP growth (annual %),1967,5.500371557
+Trinidad and Tobago,TTO,GDP growth (annual %),1967,2.042514316
+Tunisia,TUN,GDP growth (annual %),1967,0.161951757
+Turkey,TUR,GDP growth (annual %),1967,4.732510238
+United Kingdom,GBR,GDP growth (annual %),1967,2.310965101
+United States,USA,GDP growth (annual %),1967,2.5
+Uruguay,URY,GDP growth (annual %),1967,-3.656834112
+"Venezuela, RB",VEN,GDP growth (annual %),1967,2.833869136
+Zambia,ZMB,GDP growth (annual %),1967,7.919696337
+Zimbabwe,ZWE,GDP growth (annual %),1967,8.36700893
+Caribbean small states,CSS,GDP growth (annual %),1968,5.925304312
+East Asia & Pacific (all income levels),EAS,GDP growth (annual %),1968,10.74542988
+East Asia & Pacific (developing only),EAP,GDP growth (annual %),1968,2.131526893
+Euro area,EMU,GDP growth (annual %),1968,5.536371906
+Europe & Central Asia (all income levels),ECS,GDP growth (annual %),1968,4.986235353
+European Union,EUU,GDP growth (annual %),1968,5.017234462
+Heavily indebted poor countries (HIPC),HPC,GDP growth (annual %),1968,3.307877783
+High income,HIC,GDP growth (annual %),1968,6.014543463
+High income: OECD,OEC,GDP growth (annual %),1968,6.001204883
+Latin America & Caribbean (all income levels),LCN,GDP growth (annual %),1968,7.67776113
+Latin America & Caribbean (developing only),LAC,GDP growth (annual %),1968,8.698889019
+Low & middle income,LMY,GDP growth (annual %),1968,6.511969954
+Lower middle income,LMC,GDP growth (annual %),1968,4.751421806
+Middle East & North Africa (developing only),MNA,GDP growth (annual %),1968,11.57277062
+Middle income,MIC,GDP growth (annual %),1968,6.601188514
+North America,NAC,GDP growth (annual %),1968,4.839965151
+OECD members,OED,GDP growth (annual %),1968,6.079994979
+South Asia,SAS,GDP growth (annual %),1968,4.424002482
+Sub-Saharan Africa (all income levels),SSF,GDP growth (annual %),1968,3.552405893
+Sub-Saharan Africa (developing only),SSA,GDP growth (annual %),1968,3.54839583
+Upper middle income,UMC,GDP growth (annual %),1968,7.330037259
+World,WLD,GDP growth (annual %),1968,6.070893121
+Algeria,DZA,GDP growth (annual %),1968,10.79623858
+Argentina,ARG,GDP growth (annual %),1968,4.822500782
+Australia,AUS,GDP growth (annual %),1968,5.092821303
+Austria,AUT,GDP growth (annual %),1968,4.472312782
+"Bahamas, The",BHS,GDP growth (annual %),1968,8.421763564
+Bangladesh,BGD,GDP growth (annual %),1968,9.489454015
+Belgium,BEL,GDP growth (annual %),1968,4.194129625
+Belize,BLZ,GDP growth (annual %),1968,7.367225457
+Benin,BEN,GDP growth (annual %),1968,3.842335632
+Bermuda,BMU,GDP growth (annual %),1968,2.105263158
+Bolivia,BOL,GDP growth (annual %),1968,-12.16902795
+Botswana,BWA,GDP growth (annual %),1968,10.5670565
+Brazil,BRA,GDP growth (annual %),1968,11.42728238
+Burkina Faso,BFA,GDP growth (annual %),1968,3.070773938
+Burundi,BDI,GDP growth (annual %),1968,-0.297883673
+Cameroon,CMR,GDP growth (annual %),1968,6.346323856
+Canada,CAN,GDP growth (annual %),1968,5.295341864
+Central African Republic,CAF,GDP growth (annual %),1968,1.404196755
+Chad,TCD,GDP growth (annual %),1968,-0.457218867
+Chile,CHL,GDP growth (annual %),1968,3.751679076
+China,CHN,GDP growth (annual %),1968,-4.100000005
+Colombia,COL,GDP growth (annual %),1968,6.427444336
+"Congo, Dem. Rep.",ZAR,GDP growth (annual %),1968,4.332698464
+"Congo, Rep.",COG,GDP growth (annual %),1968,7.631326238
+Costa Rica,CRI,GDP growth (annual %),1968,8.385017748
+Cote d'Ivoire,CIV,GDP growth (annual %),1968,12.54824864
+Denmark,DNK,GDP growth (annual %),1968,3.974947702
+Dominican Republic,DOM,GDP growth (annual %),1968,0.238860485
+Ecuador,ECU,GDP growth (annual %),1968,1.909438399
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),1968,2.721416454
+El Salvador,SLV,GDP growth (annual %),1968,3.236692384
+Fiji,FJI,GDP growth (annual %),1968,7.916222296
+Finland,FIN,GDP growth (annual %),1968,2.303289984
+France,FRA,GDP growth (annual %),1968,4.25902469
+French Polynesia,PYF,GDP growth (annual %),1968,14.93080214
+Gabon,GAB,GDP growth (annual %),1968,2.508800884
+"Gambia, The",GMB,GDP growth (annual %),1968,9.576143464
+Georgia,GEO,GDP growth (annual %),1968,4.456334814
+Ghana,GHA,GDP growth (annual %),1968,0.368860329
+Greece,GRC,GDP growth (annual %),1968,6.664109252
+Guatemala,GTM,GDP growth (annual %),1968,8.766035054
+Guyana,GUY,GDP growth (annual %),1968,1.024827553
+Honduras,HND,GDP growth (annual %),1968,6.598183245
+"Hong Kong SAR, China",HKG,GDP growth (annual %),1968,3.397367828
+Iceland,ISL,GDP growth (annual %),1968,-5.474906346
+India,IND,GDP growth (annual %),1968,3.387929174
+Indonesia,IDN,GDP growth (annual %),1968,12.03417845
+"Iran, Islamic Rep.",IRN,GDP growth (annual %),1968,14.40418268
+Israel,ISR,GDP growth (annual %),1968,16.24195694
+Italy,ITA,GDP growth (annual %),1968,6.544554655
+Jamaica,JAM,GDP growth (annual %),1968,5.744132216
+Japan,JPN,GDP growth (annual %),1968,12.88246814
+Kenya,KEN,GDP growth (annual %),1968,7.98268997
+"Korea, Rep.",KOR,GDP growth (annual %),1968,11.69981062
+Kuwait,KWT,GDP growth (annual %),1968,9.355455835
+Lesotho,LSO,GDP growth (annual %),1968,-0.36711932
+Liberia,LBR,GDP growth (annual %),1968,4.768871689
+Luxembourg,LUX,GDP growth (annual %),1968,4.183872427
+Madagascar,MDG,GDP growth (annual %),1968,6.828786099
+Malawi,MWI,GDP growth (annual %),1968,-1.923079171
+Malaysia,MYS,GDP growth (annual %),1968,7.977994684
+Mali,MLI,GDP growth (annual %),1968,3.708410186
+Mauritania,MRT,GDP growth (annual %),1968,10.1964426
+Mexico,MEX,GDP growth (annual %),1968,9.423278819
+Morocco,MAR,GDP growth (annual %),1968,9.891739276
+Myanmar,MMR,GDP growth (annual %),1968,12.05934018
+Nepal,NPL,GDP growth (annual %),1968,0.675483464
+Netherlands,NLD,GDP growth (annual %),1968,6.41613404
+New Caledonia,NCL,GDP growth (annual %),1968,14.26255469
+Nicaragua,NIC,GDP growth (annual %),1968,1.342960053
+Niger,NER,GDP growth (annual %),1968,0.383494662
+Nigeria,NGA,GDP growth (annual %),1968,-1.248360246
+Norway,NOR,GDP growth (annual %),1968,2.259875528
+Oman,OMN,GDP growth (annual %),1968,81.88779671
+Pakistan,PAK,GDP growth (annual %),1968,7.233220925
+Panama,PAN,GDP growth (annual %),1968,6.928925723
+Papua New Guinea,PNG,GDP growth (annual %),1968,4.35959025
+Paraguay,PRY,GDP growth (annual %),1968,4.527073841
+Peru,PER,GDP growth (annual %),1968,0.354541483
+Philippines,PHL,GDP growth (annual %),1968,4.94541808
+Portugal,PRT,GDP growth (annual %),1968,8.875509234
+Puerto Rico,PRI,GDP growth (annual %),1968,5.180434229
+Rwanda,RWA,GDP growth (annual %),1968,7.013780931
+Senegal,SEN,GDP growth (annual %),1968,6.290773533
+Seychelles,SYC,GDP growth (annual %),1968,7.553235639
+Sierra Leone,SLE,GDP growth (annual %),1968,2.019923833
+Singapore,SGP,GDP growth (annual %),1968,13.61812018
+Somalia,SOM,GDP growth (annual %),1968,2.029977325
+South Africa,ZAF,GDP growth (annual %),1968,4.153364467
+Spain,ESP,GDP growth (annual %),1968,6.597020138
+Sri Lanka,LKA,GDP growth (annual %),1968,5.801104841
+St. Vincent and the Grenadines,VCT,GDP growth (annual %),1968,6.509705889
+Sudan,SDN,GDP growth (annual %),1968,1.963220824
+Sweden,SWE,GDP growth (annual %),1968,3.638252334
+Syrian Arab Republic,SYR,GDP growth (annual %),1968,3.729080221
+Thailand,THA,GDP growth (annual %),1968,8.122270256
+Togo,TGO,GDP growth (annual %),1968,5.023691853
+Trinidad and Tobago,TTO,GDP growth (annual %),1968,5.215148392
+Tunisia,TUN,GDP growth (annual %),1968,10.4097287
+Turkey,TUR,GDP growth (annual %),1968,6.777996003
+United Kingdom,GBR,GDP growth (annual %),1968,3.984737995
+United States,USA,GDP growth (annual %),1968,4.8
+Uruguay,URY,GDP growth (annual %),1968,1.888911744
+"Venezuela, RB",VEN,GDP growth (annual %),1968,7.337232609
+Zambia,ZMB,GDP growth (annual %),1968,1.24833024
+Zimbabwe,ZWE,GDP growth (annual %),1968,1.97013497
+Caribbean small states,CSS,GDP growth (annual %),1969,5.261234049
+East Asia & Pacific (all income levels),EAS,GDP growth (annual %),1969,11.77528452
+East Asia & Pacific (developing only),EAP,GDP growth (annual %),1969,11.17019399
+Euro area,EMU,GDP growth (annual %),1969,6.946309547
+Europe & Central Asia (all income levels),ECS,GDP growth (annual %),1969,5.561541825
+European Union,EUU,GDP growth (annual %),1969,5.630094181
+Heavily indebted poor countries (HIPC),HPC,GDP growth (annual %),1969,4.695747656
+High income,HIC,GDP growth (annual %),1969,5.670559787
+High income: OECD,OEC,GDP growth (annual %),1969,5.626025631
+Latin America & Caribbean (all income levels),LCN,GDP growth (annual %),1969,6.050743897
+Latin America & Caribbean (developing only),LAC,GDP growth (annual %),1969,6.087651332
+Low & middle income,LMY,GDP growth (annual %),1969,7.409323872
+Lower middle income,LMC,GDP growth (annual %),1969,7.135330307
+Middle East & North Africa (all income levels),MEA,GDP growth (annual %),1969,10.69298865
+Middle East & North Africa (developing only),MNA,GDP growth (annual %),1969,11.97046357
+Middle income,MIC,GDP growth (annual %),1969,7.431591642
+North America,NAC,GDP growth (annual %),1969,3.280122527
+OECD members,OED,GDP growth (annual %),1969,5.563527862
+South Asia,SAS,GDP growth (annual %),1969,5.85531057
+Sub-Saharan Africa (all income levels),SSF,GDP growth (annual %),1969,7.475087832
+Sub-Saharan Africa (developing only),SSA,GDP growth (annual %),1969,7.482869944
+Upper middle income,UMC,GDP growth (annual %),1969,7.544736586
+World,WLD,GDP growth (annual %),1969,5.868153616
+Algeria,DZA,GDP growth (annual %),1969,8.433280276
+Argentina,ARG,GDP growth (annual %),1969,9.679526008
+Australia,AUS,GDP growth (annual %),1969,7.049711867
+Austria,AUT,GDP growth (annual %),1969,6.275867166
+"Bahamas, The",BHS,GDP growth (annual %),1969,8.981662578
+Bangladesh,BGD,GDP growth (annual %),1969,1.220857909
+Belgium,BEL,GDP growth (annual %),1969,6.629799795
+Belize,BLZ,GDP growth (annual %),1969,5.106374791
+Benin,BEN,GDP growth (annual %),1969,2.877497976
+Bermuda,BMU,GDP growth (annual %),1969,3.436426117
+Bolivia,BOL,GDP growth (annual %),1969,3.09601364
+Botswana,BWA,GDP growth (annual %),1969,15.12340471
+Brazil,BRA,GDP growth (annual %),1969,9.73582689
+Burkina Faso,BFA,GDP growth (annual %),1969,2.026081041
+Burundi,BDI,GDP growth (annual %),1969,-1.459541143
+Cameroon,CMR,GDP growth (annual %),1969,4.901479523
+Canada,CAN,GDP growth (annual %),1969,5.260000826
+Central African Republic,CAF,GDP growth (annual %),1969,7.091406507
+Chad,TCD,GDP growth (annual %),1969,6.881310224
+Chile,CHL,GDP growth (annual %),1969,3.471317248
+China,CHN,GDP growth (annual %),1969,16.9
+Colombia,COL,GDP growth (annual %),1969,6.520935067
+"Congo, Dem. Rep.",ZAR,GDP growth (annual %),1969,9.328837439
+"Congo, Rep.",COG,GDP growth (annual %),1969,7.548525194
+Costa Rica,CRI,GDP growth (annual %),1969,5.577729803
+Cote d'Ivoire,CIV,GDP growth (annual %),1969,9.539218771
+Denmark,DNK,GDP growth (annual %),1969,6.322485008
+Dominican Republic,DOM,GDP growth (annual %),1969,10.89144583
+Ecuador,ECU,GDP growth (annual %),1969,4.66923798
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),1969,6.812550215
+El Salvador,SLV,GDP growth (annual %),1969,3.485418819
+Fiji,FJI,GDP growth (annual %),1969,2.596410963
+Finland,FIN,GDP growth (annual %),1969,9.593287785
+France,FRA,GDP growth (annual %),1969,6.990530534
+French Polynesia,PYF,GDP growth (annual %),1969,-2.685941013
+Gabon,GAB,GDP growth (annual %),1969,8.082910435
+"Gambia, The",GMB,GDP growth (annual %),1969,2.435522882
+Georgia,GEO,GDP growth (annual %),1969,4.778149725
+Ghana,GHA,GDP growth (annual %),1969,6.006174964
+Greece,GRC,GDP growth (annual %),1969,9.899730172
+Guatemala,GTM,GDP growth (annual %),1969,4.736909015
+Guyana,GUY,GDP growth (annual %),1969,6.994386657
+Honduras,HND,GDP growth (annual %),1969,0.655438847
+"Hong Kong SAR, China",HKG,GDP growth (annual %),1969,11.34354927
+Iceland,ISL,GDP growth (annual %),1969,2.374588027
+India,IND,GDP growth (annual %),1969,6.539700298
+Indonesia,IDN,GDP growth (annual %),1969,7.477385929
+"Iran, Islamic Rep.",IRN,GDP growth (annual %),1969,15.51665891
+Iraq,IRQ,GDP growth (annual %),1969,3.24418646
+Israel,ISR,GDP growth (annual %),1969,13.56570346
+Italy,ITA,GDP growth (annual %),1969,6.098059996
+Jamaica,JAM,GDP growth (annual %),1969,5.574673871
+Japan,JPN,GDP growth (annual %),1969,12.47789451
+Kenya,KEN,GDP growth (annual %),1969,7.959224456
+"Korea, Rep.",KOR,GDP growth (annual %),1969,14.10007248
+Kuwait,KWT,GDP growth (annual %),1969,2.735418635
+Lesotho,LSO,GDP growth (annual %),1969,1.547534831
+Liberia,LBR,GDP growth (annual %),1969,7.28847301
+Luxembourg,LUX,GDP growth (annual %),1969,9.972857943
+Madagascar,MDG,GDP growth (annual %),1969,3.721222168
+Malawi,MWI,GDP growth (annual %),1969,5.882359882
+Malaysia,MYS,GDP growth (annual %),1969,4.888533548
+Mali,MLI,GDP growth (annual %),1969,0.230999438
+Mauritania,MRT,GDP growth (annual %),1969,1.248532111
+Mexico,MEX,GDP growth (annual %),1969,3.418620026
+Morocco,MAR,GDP growth (annual %),1969,8.362165371
+Myanmar,MMR,GDP growth (annual %),1969,3.291741119
+Nepal,NPL,GDP growth (annual %),1969,4.463421601
+Netherlands,NLD,GDP growth (annual %),1969,6.429449078
+New Caledonia,NCL,GDP growth (annual %),1969,15.71631338
+Nicaragua,NIC,GDP growth (annual %),1969,6.237703907
+Niger,NER,GDP growth (annual %),1969,-5.485945812
+Nigeria,NGA,GDP growth (annual %),1969,24.19738395
+Norway,NOR,GDP growth (annual %),1969,4.504611456
+Oman,OMN,GDP growth (annual %),1969,25.66616882
+Pakistan,PAK,GDP growth (annual %),1969,5.507899634
+Panama,PAN,GDP growth (annual %),1969,8.528428094
+Papua New Guinea,PNG,GDP growth (annual %),1969,8.273457947
+Paraguay,PRY,GDP growth (annual %),1969,4.70115141
+Peru,PER,GDP growth (annual %),1969,3.794652658
+Philippines,PHL,GDP growth (annual %),1969,4.656358578
+Portugal,PRT,GDP growth (annual %),1969,2.120741162
+Puerto Rico,PRI,GDP growth (annual %),1969,9.375232938
+Rwanda,RWA,GDP growth (annual %),1969,11.00737015
+Saudi Arabia,SAU,GDP growth (annual %),1969,6.037886549
+Senegal,SEN,GDP growth (annual %),1969,-6.554142921
+Seychelles,SYC,GDP growth (annual %),1969,0
+Sierra Leone,SLE,GDP growth (annual %),1969,8.525446802
+Singapore,SGP,GDP growth (annual %),1969,13.72467613
+Somalia,SOM,GDP growth (annual %),1969,-1.699569717
+South Africa,ZAF,GDP growth (annual %),1969,4.715974906
+Spain,ESP,GDP growth (annual %),1969,8.907015555
+Sri Lanka,LKA,GDP growth (annual %),1969,7.716811634
+St. Vincent and the Grenadines,VCT,GDP growth (annual %),1969,2.86084497
+Sudan,SDN,GDP growth (annual %),1969,1.389350492
+Sweden,SWE,GDP growth (annual %),1969,5.009649556
+Syrian Arab Republic,SYR,GDP growth (annual %),1969,18.76791521
+Thailand,THA,GDP growth (annual %),1969,6.550659886
+Togo,TGO,GDP growth (annual %),1969,10.83086834
+Trinidad and Tobago,TTO,GDP growth (annual %),1969,2.730681521
+Tunisia,TUN,GDP growth (annual %),1969,4.747816296
+Turkey,TUR,GDP growth (annual %),1969,4.081145625
+United Kingdom,GBR,GDP growth (annual %),1969,2.052445651
+United States,USA,GDP growth (annual %),1969,3.1
+Uruguay,URY,GDP growth (annual %),1969,5.864740633
+"Venezuela, RB",VEN,GDP growth (annual %),1969,0.706036852
+Zambia,ZMB,GDP growth (annual %),1969,-0.436915912
+Zimbabwe,ZWE,GDP growth (annual %),1969,12.42823583
+Caribbean small states,CSS,GDP growth (annual %),1970,5.023946028
+East Asia & Pacific (all income levels),EAS,GDP growth (annual %),1970,1.819359592
+East Asia & Pacific (developing only),EAP,GDP growth (annual %),1970,13.31910068
+Euro area,EMU,GDP growth (annual %),1970,5.610582563
+Europe & Central Asia (all income levels),ECS,GDP growth (annual %),1970,4.727957096
+European Union,EUU,GDP growth (annual %),1970,4.815860758
+Heavily indebted poor countries (HIPC),HPC,GDP growth (annual %),1970,4.170904096
+High income,HIC,GDP growth (annual %),1970,3.38871823
+High income: OECD,OEC,GDP growth (annual %),1970,3.284176443
+Latin America & Caribbean (all income levels),LCN,GDP growth (annual %),1970,6.515956855
+Latin America & Caribbean (developing only),LAC,GDP growth (annual %),1970,7.354660831
+Low & middle income,LMY,GDP growth (annual %),1970,7.944394823
+Lower middle income,LMC,GDP growth (annual %),1970,7.189906257
+Middle East & North Africa (all income levels),MEA,GDP growth (annual %),1970,8.577603974
+Middle East & North Africa (developing only),MNA,GDP growth (annual %),1970,8.67096008
+Middle income,MIC,GDP growth (annual %),1970,8.058577583
+North America,NAC,GDP growth (annual %),1970,3.155138797
+OECD members,OED,GDP growth (annual %),1970,3.351406919
+South Asia,SAS,GDP growth (annual %),1970,5.731799865
+Sub-Saharan Africa (all income levels),SSF,GDP growth (annual %),1970,8.103948522
+Sub-Saharan Africa (developing only),SSA,GDP growth (annual %),1970,8.103204718
+Upper middle income,UMC,GDP growth (annual %),1970,8.389068259
+World,WLD,GDP growth (annual %),1970,3.913963616
+Algeria,DZA,GDP growth (annual %),1970,8.862657113
+Argentina,ARG,GDP growth (annual %),1970,3.045643319
+Australia,AUS,GDP growth (annual %),1970,7.166891517
+Austria,AUT,GDP growth (annual %),1970,5.546028411
+"Bahamas, The",BHS,GDP growth (annual %),1970,-5.649649519
+Bangladesh,BGD,GDP growth (annual %),1970,5.619852293
+Belgium,BEL,GDP growth (annual %),1970,5.957294895
+Belize,BLZ,GDP growth (annual %),1970,4.807693364
+Benin,BEN,GDP growth (annual %),1970,2.097757586
+Bermuda,BMU,GDP growth (annual %),1970,6.312292359
+Bolivia,BOL,GDP growth (annual %),1970,-0.494821367
+Botswana,BWA,GDP growth (annual %),1970,17.12026767
+Brazil,BRA,GDP growth (annual %),1970,8.769947472
+Burkina Faso,BFA,GDP growth (annual %),1970,0.117019611
+Burundi,BDI,GDP growth (annual %),1970,21.32567073
+Cameroon,CMR,GDP growth (annual %),1970,3.092068236
+Canada,CAN,GDP growth (annual %),1970,2.583421925
+Central African Republic,CAF,GDP growth (annual %),1970,2.332966053
+Chad,TCD,GDP growth (annual %),1970,1.859656479
+Chile,CHL,GDP growth (annual %),1970,2.122519603
+China,CHN,GDP growth (annual %),1970,19.39999999
+Colombia,COL,GDP growth (annual %),1970,6.956515099
+"Congo, Dem. Rep.",ZAR,GDP growth (annual %),1970,-0.245056575
+"Congo, Rep.",COG,GDP growth (annual %),1970,6.358470188
+Costa Rica,CRI,GDP growth (annual %),1970,7.503134357
+Cote d'Ivoire,CIV,GDP growth (annual %),1970,10.37503184
+Denmark,DNK,GDP growth (annual %),1970,2.026089152
+Dominican Republic,DOM,GDP growth (annual %),1970,18.22668288
+Ecuador,ECU,GDP growth (annual %),1970,6.87192933
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),1970,5.598515675
+El Salvador,SLV,GDP growth (annual %),1970,2.977295091
+Fiji,FJI,GDP growth (annual %),1970,12.70270626
+Finland,FIN,GDP growth (annual %),1970,5.333907792
+France,FRA,GDP growth (annual %),1970,5.727118376
+French Polynesia,PYF,GDP growth (annual %),1970,1.626711344
+Gabon,GAB,GDP growth (annual %),1970,8.679342173
+"Gambia, The",GMB,GDP growth (annual %),1970,6.153846574
+Georgia,GEO,GDP growth (annual %),1970,12.05211625
+Ghana,GHA,GDP growth (annual %),1970,9.723472587
+Greece,GRC,GDP growth (annual %),1970,7.95448744
+Guatemala,GTM,GDP growth (annual %),1970,5.707883599
+Guyana,GUY,GDP growth (annual %),1970,4.255456893
+Honduras,HND,GDP growth (annual %),1970,3.62672094
+"Hong Kong SAR, China",HKG,GDP growth (annual %),1970,9.20682658
+Iceland,ISL,GDP growth (annual %),1970,7.456560032
+India,IND,GDP growth (annual %),1970,5.157229736
+Indonesia,IDN,GDP growth (annual %),1970,8.152095969
+"Iran, Islamic Rep.",IRN,GDP growth (annual %),1970,10.92760163
+Iraq,IRQ,GDP growth (annual %),1970,4.544357064
+Israel,ISR,GDP growth (annual %),1970,7.307329621
+Italy,ITA,GDP growth (annual %),1970,5.310502429
+Jamaica,JAM,GDP growth (annual %),1970,12.06440904
+Japan,JPN,GDP growth (annual %),1970,-1.023789343
+Kenya,KEN,GDP growth (annual %),1970,-4.655446914
+"Korea, Rep.",KOR,GDP growth (annual %),1970,12.868532
+Kuwait,KWT,GDP growth (annual %),1970,3.181749609
+Lesotho,LSO,GDP growth (annual %),1970,2.177072196
+Liberia,LBR,GDP growth (annual %),1970,6.663192709
+Luxembourg,LUX,GDP growth (annual %),1970,1.759933831
+Madagascar,MDG,GDP growth (annual %),1970,5.276455575
+Malawi,MWI,GDP growth (annual %),1970,0.479297979
+Malaysia,MYS,GDP growth (annual %),1970,5.986538631
+Mali,MLI,GDP growth (annual %),1970,6.136954832
+Mauritania,MRT,GDP growth (annual %),1970,11.98593111
+Mexico,MEX,GDP growth (annual %),1970,6.502484033
+Morocco,MAR,GDP growth (annual %),1970,4.713460439
+Myanmar,MMR,GDP growth (annual %),1970,4.979330597
+Nepal,NPL,GDP growth (annual %),1970,2.575992126
+Netherlands,NLD,GDP growth (annual %),1970,5.694795536
+New Caledonia,NCL,GDP growth (annual %),1970,30.99928974
+Nicaragua,NIC,GDP growth (annual %),1970,1.353826591
+Niger,NER,GDP growth (annual %),1970,3.055778922
+Nigeria,NGA,GDP growth (annual %),1970,25.00724193
+Norway,NOR,GDP growth (annual %),1970,2.001343342
+Oman,OMN,GDP growth (annual %),1970,13.89509644
+Pakistan,PAK,GDP growth (annual %),1970,11.35346172
+Panama,PAN,GDP growth (annual %),1970,6.386746379
+Papua New Guinea,PNG,GDP growth (annual %),1970,10.84280577
+Paraguay,PRY,GDP growth (annual %),1970,5.553425735
+Peru,PER,GDP growth (annual %),1970,5.836876461
+Philippines,PHL,GDP growth (annual %),1970,3.764604859
+Portugal,PRT,GDP growth (annual %),1970,12.61260371
+Puerto Rico,PRI,GDP growth (annual %),1970,8.397918277
+Rwanda,RWA,GDP growth (annual %),1970,6.001425245
+Saudi Arabia,SAU,GDP growth (annual %),1970,8.477756818
+Senegal,SEN,GDP growth (annual %),1970,8.562045511
+Seychelles,SYC,GDP growth (annual %),1970,8.871869865
+Sierra Leone,SLE,GDP growth (annual %),1970,8.62049324
+Singapore,SGP,GDP growth (annual %),1970,13.88564039
+Somalia,SOM,GDP growth (annual %),1970,4.581407921
+South Africa,ZAF,GDP growth (annual %),1970,5.248543469
+Spain,ESP,GDP growth (annual %),1970,4.290932921
+Sri Lanka,LKA,GDP growth (annual %),1970,3.846634267
+St. Vincent and the Grenadines,VCT,GDP growth (annual %),1970,10.74588955
+Sudan,SDN,GDP growth (annual %),1970,5.925074714
+Sweden,SWE,GDP growth (annual %),1970,6.042008752
+Syrian Arab Republic,SYR,GDP growth (annual %),1970,-3.807819134
+Thailand,THA,GDP growth (annual %),1970,11.40794907
+Togo,TGO,GDP growth (annual %),1970,2.524302645
+Trinidad and Tobago,TTO,GDP growth (annual %),1970,3.533636514
+Tunisia,TUN,GDP growth (annual %),1970,4.669631696
+Turkey,TUR,GDP growth (annual %),1970,3.233508982
+United Kingdom,GBR,GDP growth (annual %),1970,2.668168065
+United States,USA,GDP growth (annual %),1970,3.206807257
+Uruguay,URY,GDP growth (annual %),1970,2.333213382
+"Venezuela, RB",VEN,GDP growth (annual %),1970,7.711914353
+Zambia,ZMB,GDP growth (annual %),1970,4.797112895
+Zimbabwe,ZWE,GDP growth (annual %),1970,22.56515084
+Caribbean small states,CSS,GDP growth (annual %),1971,1.851907746
+East Asia & Pacific (all income levels),EAS,GDP growth (annual %),1971,5.148554224
+East Asia & Pacific (developing only),EAP,GDP growth (annual %),1971,6.4896474
+Euro area,EMU,GDP growth (annual %),1971,3.79585678
+Europe & Central Asia (all income levels),ECS,GDP growth (annual %),1971,3.706235423
+European Union,EUU,GDP growth (annual %),1971,3.629958918
+Heavily indebted poor countries (HIPC),HPC,GDP growth (annual %),1971,4.183926376
+High income,HIC,GDP growth (annual %),1971,3.862862952
+High income: OECD,OEC,GDP growth (annual %),1971,3.753682995
+Latin America & Caribbean (all income levels),LCN,GDP growth (annual %),1971,6.266126452
+Latin America & Caribbean (developing only),LAC,GDP growth (annual %),1971,6.984853249
+Low & middle income,LMY,GDP growth (annual %),1971,5.968580712
+Lower middle income,LMC,GDP growth (annual %),1971,4.092492454
+Middle East & North Africa (all income levels),MEA,GDP growth (annual %),1971,10.12855124
+Middle East & North Africa (developing only),MNA,GDP growth (annual %),1971,7.436111309
+Middle income,MIC,GDP growth (annual %),1971,6.010721547
+North America,NAC,GDP growth (annual %),1971,3.364972338
+OECD members,OED,GDP growth (annual %),1971,3.76937193
+South Asia,SAS,GDP growth (annual %),1971,0.72722698
+Sub-Saharan Africa (all income levels),SSF,GDP growth (annual %),1971,6.502000503
+Sub-Saharan Africa (developing only),SSA,GDP growth (annual %),1971,6.492907085
+Upper middle income,UMC,GDP growth (annual %),1971,6.722296023
+World,WLD,GDP growth (annual %),1971,4.092566699
+Algeria,DZA,GDP growth (annual %),1971,-11.33171916
+Andorra,ADO,GDP growth (annual %),1971,4.649473525
+Argentina,ARG,GDP growth (annual %),1971,5.658131083
+Australia,AUS,GDP growth (annual %),1971,4.009152776
+Austria,AUT,GDP growth (annual %),1971,5.114968735
+"Bahamas, The",BHS,GDP growth (annual %),1971,1.626508741
+Bangladesh,BGD,GDP growth (annual %),1971,-5.479483027
+Belgium,BEL,GDP growth (annual %),1971,3.985827384
+Belize,BLZ,GDP growth (annual %),1971,3.959441082
+Benin,BEN,GDP growth (annual %),1971,-1.496841833
+Bermuda,BMU,GDP growth (annual %),1971,3.4375
+Bolivia,BOL,GDP growth (annual %),1971,5.063336314
+Botswana,BWA,GDP growth (annual %),1971,25.82110722
+Brazil,BRA,GDP growth (annual %),1971,11.29508684
+Burkina Faso,BFA,GDP growth (annual %),1971,1.413339882
+Burundi,BDI,GDP growth (annual %),1971,2.746828711
+Cameroon,CMR,GDP growth (annual %),1971,3.479707817
+Canada,CAN,GDP growth (annual %),1971,4.117657615
+Central African Republic,CAF,GDP growth (annual %),1971,1.130127004
+Chad,TCD,GDP growth (annual %),1971,-2.247626372
+Chile,CHL,GDP growth (annual %),1971,9.017964832
+China,CHN,GDP growth (annual %),1971,7.000000001
+Colombia,COL,GDP growth (annual %),1971,5.951223099
+"Congo, Dem. Rep.",ZAR,GDP growth (annual %),1971,6.005018067
+"Congo, Rep.",COG,GDP growth (annual %),1971,7.753035853
+Costa Rica,CRI,GDP growth (annual %),1971,6.778505416
+Cote d'Ivoire,CIV,GDP growth (annual %),1971,9.456637661
+Cuba,CUB,GDP growth (annual %),1971,8.583858538
+Denmark,DNK,GDP growth (annual %),1971,3.001883355
+Dominican Republic,DOM,GDP growth (annual %),1971,10.87146607
+Ecuador,ECU,GDP growth (annual %),1971,6.292606196
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),1971,3.440912069
+El Salvador,SLV,GDP growth (annual %),1971,3.858257515
+Fiji,FJI,GDP growth (annual %),1971,6.888987411
+Finland,FIN,GDP growth (annual %),1971,2.356920312
+France,FRA,GDP growth (annual %),1971,5.34571156
+French Polynesia,PYF,GDP growth (annual %),1971,12.00240864
+Gabon,GAB,GDP growth (annual %),1971,10.25873091
+"Gambia, The",GMB,GDP growth (annual %),1971,-0.065877033
+Georgia,GEO,GDP growth (annual %),1971,2.470936125
+Germany,DEU,GDP growth (annual %),1971,3.132699754
+Ghana,GHA,GDP growth (annual %),1971,5.216124557
+Greece,GRC,GDP growth (annual %),1971,7.841177059
+Greenland,GRL,GDP growth (annual %),1971,13.06085429
+Guatemala,GTM,GDP growth (annual %),1971,5.58375455
+Guinea-Bissau,GNB,GDP growth (annual %),1971,-3.910967458
+Guyana,GUY,GDP growth (annual %),1971,3.112850845
+Honduras,HND,GDP growth (annual %),1971,3.995003607
+"Hong Kong SAR, China",HKG,GDP growth (annual %),1971,7.293239626
+Iceland,ISL,GDP growth (annual %),1971,13.06083765
+India,IND,GDP growth (annual %),1971,1.642930383
+Indonesia,IDN,GDP growth (annual %),1971,6.99736404
+"Iran, Islamic Rep.",IRN,GDP growth (annual %),1971,13.70158299
+Iraq,IRQ,GDP growth (annual %),1971,5.374552533
+Ireland,IRL,GDP growth (annual %),1971,3.469888073
+Israel,ISR,GDP growth (annual %),1971,11.22428382
+Italy,ITA,GDP growth (annual %),1971,1.818107983
+Jamaica,JAM,GDP growth (annual %),1971,2.458073452
+Japan,JPN,GDP growth (annual %),1971,4.698992042
+Kenya,KEN,GDP growth (annual %),1971,22.17389193
+Kiribati,KIR,GDP growth (annual %),1971,-2.290060344
+"Korea, Rep.",KOR,GDP growth (annual %),1971,10.44122457
+Kuwait,KWT,GDP growth (annual %),1971,7.671405977
+Lesotho,LSO,GDP growth (annual %),1971,5.113719446
+Liberia,LBR,GDP growth (annual %),1971,4.90483027
+Liechtenstein,LIE,GDP growth (annual %),1971,1.669222008
+Luxembourg,LUX,GDP growth (annual %),1971,2.667237141
+Madagascar,MDG,GDP growth (annual %),1971,3.929365032
+Malawi,MWI,GDP growth (annual %),1971,16.21856363
+Malaysia,MYS,GDP growth (annual %),1971,5.753434903
+Mali,MLI,GDP growth (annual %),1971,2.568996035
+Malta,MLT,GDP growth (annual %),1971,2.453987702
+Mauritania,MRT,GDP growth (annual %),1971,1.842886453
+Mexico,MEX,GDP growth (annual %),1971,3.762467687
+Monaco,MCO,GDP growth (annual %),1971,5.228060024
+Morocco,MAR,GDP growth (annual %),1971,5.596893638
+Myanmar,MMR,GDP growth (annual %),1971,4.129962445
+Nepal,NPL,GDP growth (annual %),1971,-1.1953833
+Netherlands,NLD,GDP growth (annual %),1971,4.316980328
+New Caledonia,NCL,GDP growth (annual %),1971,6.999215677
+Nicaragua,NIC,GDP growth (annual %),1971,3.304756499
+Niger,NER,GDP growth (annual %),1971,5.679320644
+Nigeria,NGA,GDP growth (annual %),1971,14.23753156
+Norway,NOR,GDP growth (annual %),1971,5.672449981
+Oman,OMN,GDP growth (annual %),1971,0.898225086
+Pakistan,PAK,GDP growth (annual %),1971,0.468372549
+Panama,PAN,GDP growth (annual %),1971,9.645883343
+Papua New Guinea,PNG,GDP growth (annual %),1971,6.295192572
+Paraguay,PRY,GDP growth (annual %),1971,5.538151939
+Peru,PER,GDP growth (annual %),1971,4.180886212
+Philippines,PHL,GDP growth (annual %),1971,5.428631369
+Portugal,PRT,GDP growth (annual %),1971,6.631652211
+Puerto Rico,PRI,GDP growth (annual %),1971,6.365448203
+Rwanda,RWA,GDP growth (annual %),1971,1.206640704
+San Marino,SMR,GDP growth (annual %),1971,1.818023954
+Saudi Arabia,SAU,GDP growth (annual %),1971,16.90320282
+Senegal,SEN,GDP growth (annual %),1971,-0.140449439
+Seychelles,SYC,GDP growth (annual %),1971,15.85177574
+Sierra Leone,SLE,GDP growth (annual %),1971,3.465916492
+Singapore,SGP,GDP growth (annual %),1971,12.08123703
+Somalia,SOM,GDP growth (annual %),1971,2.62902234
+South Africa,ZAF,GDP growth (annual %),1971,4.279001629
+Spain,ESP,GDP growth (annual %),1971,4.6494735
+Sri Lanka,LKA,GDP growth (annual %),1971,1.306901107
+St. Vincent and the Grenadines,VCT,GDP growth (annual %),1971,2.968050584
+Sudan,SDN,GDP growth (annual %),1971,2.247314101
+Swaziland,SWZ,GDP growth (annual %),1971,13.74363596
+Sweden,SWE,GDP growth (annual %),1971,0.944646242
+Syrian Arab Republic,SYR,GDP growth (annual %),1971,9.916003775
+Thailand,THA,GDP growth (annual %),1971,4.89537376
+Togo,TGO,GDP growth (annual %),1971,0
+Trinidad and Tobago,TTO,GDP growth (annual %),1971,1.040332409
+Tunisia,TUN,GDP growth (annual %),1971,10.56019718
+Turkey,TUR,GDP growth (annual %),1971,5.566694508
+United Kingdom,GBR,GDP growth (annual %),1971,3.481785765
+United States,USA,GDP growth (annual %),1971,3.295476728
+Uruguay,URY,GDP growth (annual %),1971,-0.251711532
+"Venezuela, RB",VEN,GDP growth (annual %),1971,1.479291059
+Virgin Islands (U.S.),VIR,GDP growth (annual %),1971,12.07796785
+Zambia,ZMB,GDP growth (annual %),1971,-0.086039569
+Zimbabwe,ZWE,GDP growth (annual %),1971,8.917586642
+Caribbean small states,CSS,GDP growth (annual %),1972,9.022126543
+East Asia & Pacific (all income levels),EAS,GDP growth (annual %),1972,7.656238443
+East Asia & Pacific (developing only),EAP,GDP growth (annual %),1972,5.151817221
+Euro area,EMU,GDP growth (annual %),1972,4.907236872
+Europe & Central Asia (all income levels),ECS,GDP growth (annual %),1972,4.749991778
+European Union,EUU,GDP growth (annual %),1972,4.688370484
+Heavily indebted poor countries (HIPC),HPC,GDP growth (annual %),1972,1.961182172
+High income,HIC,GDP growth (annual %),1972,5.471447996
+High income: OECD,OEC,GDP growth (annual %),1972,5.401275187
+Latin America & Caribbean (all income levels),LCN,GDP growth (annual %),1972,7.068298212
+Latin America & Caribbean (developing only),LAC,GDP growth (annual %),1972,9.228917426
+Low & middle income,LMY,GDP growth (annual %),1972,6.720366592
+Lower middle income,LMC,GDP growth (annual %),1972,1.956190575
+Middle East & North Africa (all income levels),MEA,GDP growth (annual %),1972,15.76822293
+Middle East & North Africa (developing only),MNA,GDP growth (annual %),1972,14.21109994
+Middle income,MIC,GDP growth (annual %),1972,6.851208737
+North America,NAC,GDP growth (annual %),1972,5.277338263
+OECD members,OED,GDP growth (annual %),1972,5.473468632
+South Asia,SAS,GDP growth (annual %),1972,-1.715830777
+Sub-Saharan Africa (all income levels),SSF,GDP growth (annual %),1972,2.538412093
+Sub-Saharan Africa (developing only),SSA,GDP growth (annual %),1972,2.534423339
+Upper middle income,UMC,GDP growth (annual %),1972,8.622289817
+World,WLD,GDP growth (annual %),1972,5.610142564
+Algeria,DZA,GDP growth (annual %),1972,27.42396948
+Andorra,ADO,GDP growth (annual %),1972,8.149745709
+Argentina,ARG,GDP growth (annual %),1972,1.628416516
+Australia,AUS,GDP growth (annual %),1972,3.91086113
+Austria,AUT,GDP growth (annual %),1972,6.207860972
+"Bahamas, The",BHS,GDP growth (annual %),1972,-3.497335933
+Bangladesh,BGD,GDP growth (annual %),1972,-13.9737287
+Belgium,BEL,GDP growth (annual %),1972,5.295604394
+Belize,BLZ,GDP growth (annual %),1972,10.21830384
+Benin,BEN,GDP growth (annual %),1972,6.426367549
+Bermuda,BMU,GDP growth (annual %),1972,1.812688822
+Bolivia,BOL,GDP growth (annual %),1972,7.967485482
+Botswana,BWA,GDP growth (annual %),1972,26.36194095
+Brazil,BRA,GDP growth (annual %),1972,12.05280225
+Burkina Faso,BFA,GDP growth (annual %),1972,2.311498741
+Burundi,BDI,GDP growth (annual %),1972,-6.403964923
+Cameroon,CMR,GDP growth (annual %),1972,2.673843292
+Canada,CAN,GDP growth (annual %),1972,5.445855585
+Central African Republic,CAF,GDP growth (annual %),1972,-0.000782877
+Chad,TCD,GDP growth (annual %),1972,1.149616095
+Chile,CHL,GDP growth (annual %),1972,-0.819195515
+China,CHN,GDP growth (annual %),1972,3.800000005
+Colombia,COL,GDP growth (annual %),1972,7.673414682
+"Congo, Dem. Rep.",ZAR,GDP growth (annual %),1972,0.151135514
+"Congo, Rep.",COG,GDP growth (annual %),1972,8.617550844
+Costa Rica,CRI,GDP growth (annual %),1972,8.178045141
+Cote d'Ivoire,CIV,GDP growth (annual %),1972,4.236625012
+Cuba,CUB,GDP growth (annual %),1972,4.826686057
+Denmark,DNK,GDP growth (annual %),1972,4.174997582
+Dominican Republic,DOM,GDP growth (annual %),1972,10.39416408
+Ecuador,ECU,GDP growth (annual %),1972,5.017640704
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),1972,2.028896625
+El Salvador,SLV,GDP growth (annual %),1972,6.117533686
+Fiji,FJI,GDP growth (annual %),1972,7.485278875
+Finland,FIN,GDP growth (annual %),1972,7.735485518
+France,FRA,GDP growth (annual %),1972,4.541578928
+French Polynesia,PYF,GDP growth (annual %),1972,-4.695078729
+Gabon,GAB,GDP growth (annual %),1972,11.33697068
+"Gambia, The",GMB,GDP growth (annual %),1972,0.24170478
+Georgia,GEO,GDP growth (annual %),1972,2.836873807
+Germany,DEU,GDP growth (annual %),1972,4.300341294
+Ghana,GHA,GDP growth (annual %),1972,-2.4876554
+Greece,GRC,GDP growth (annual %),1972,10.16015109
+Greenland,GRL,GDP growth (annual %),1972,6.177273186
+Guatemala,GTM,GDP growth (annual %),1972,7.333051621
+Guinea-Bissau,GNB,GDP growth (annual %),1972,6.374860894
+Guyana,GUY,GDP growth (annual %),1972,-3.317670936
+Honduras,HND,GDP growth (annual %),1972,5.762304882
+"Hong Kong SAR, China",HKG,GDP growth (annual %),1972,10.61176392
+Iceland,ISL,GDP growth (annual %),1972,6.177334445
+India,IND,GDP growth (annual %),1972,-0.553301313
+Indonesia,IDN,GDP growth (annual %),1972,7.882697752
+"Iran, Islamic Rep.",IRN,GDP growth (annual %),1972,14.49901585
+Iraq,IRQ,GDP growth (annual %),1972,3.735303787
+Ireland,IRL,GDP growth (annual %),1972,6.489808338
+Israel,ISR,GDP growth (annual %),1972,13.66083896
+Italy,ITA,GDP growth (annual %),1972,3.690485754
+Jamaica,JAM,GDP growth (annual %),1972,18.00855529
+Japan,JPN,GDP growth (annual %),1972,8.413547255
+Kenya,KEN,GDP growth (annual %),1972,17.08242935
+Kiribati,KIR,GDP growth (annual %),1972,12.07922685
+"Korea, Rep.",KOR,GDP growth (annual %),1972,6.51083942
+Kuwait,KWT,GDP growth (annual %),1972,4.401129175
+Lesotho,LSO,GDP growth (annual %),1972,-0.2027104
+Liberia,LBR,GDP growth (annual %),1972,4.140495641
+Liechtenstein,LIE,GDP growth (annual %),1972,1.669219563
+Luxembourg,LUX,GDP growth (annual %),1972,6.598191908
+Madagascar,MDG,GDP growth (annual %),1972,-1.272621531
+Malawi,MWI,GDP growth (annual %),1972,6.231349033
+Malaysia,MYS,GDP growth (annual %),1972,9.381914552
+Mali,MLI,GDP growth (annual %),1972,5.844016443
+Malta,MLT,GDP growth (annual %),1972,5.838323451
+Mauritania,MRT,GDP growth (annual %),1972,-0.732907872
+Mexico,MEX,GDP growth (annual %),1972,8.22880731
+Monaco,MCO,GDP growth (annual %),1972,4.648309616
+Morocco,MAR,GDP growth (annual %),1972,2.437237296
+Myanmar,MMR,GDP growth (annual %),1972,2.435841373
+Nepal,NPL,GDP growth (annual %),1972,3.117800363
+Netherlands,NLD,GDP growth (annual %),1972,3.533874519
+New Caledonia,NCL,GDP growth (annual %),1972,3.398499545
+Nicaragua,NIC,GDP growth (annual %),1972,2.220722892
+Niger,NER,GDP growth (annual %),1972,-5.166272306
+Nigeria,NGA,GDP growth (annual %),1972,3.36426203
+Norway,NOR,GDP growth (annual %),1972,5.330597932
+Oman,OMN,GDP growth (annual %),1972,9.82522417
+Pakistan,PAK,GDP growth (annual %),1972,0.813406405
+Panama,PAN,GDP growth (annual %),1972,4.580279867
+Papua New Guinea,PNG,GDP growth (annual %),1972,5.643553369
+Paraguay,PRY,GDP growth (annual %),1972,6.631297476
+Peru,PER,GDP growth (annual %),1972,2.869775962
+Philippines,PHL,GDP growth (annual %),1972,5.446791104
+Portugal,PRT,GDP growth (annual %),1972,8.015696318
+Puerto Rico,PRI,GDP growth (annual %),1972,7.173575141
+Rwanda,RWA,GDP growth (annual %),1972,0.263068276
+San Marino,SMR,GDP growth (annual %),1972,3.69059973
+Saudi Arabia,SAU,GDP growth (annual %),1972,20.36391902
+Senegal,SEN,GDP growth (annual %),1972,6.383208916
+Seychelles,SYC,GDP growth (annual %),1972,6.308307966
+Sierra Leone,SLE,GDP growth (annual %),1972,0.90023465
+Singapore,SGP,GDP growth (annual %),1972,13.52658878
+Somalia,SOM,GDP growth (annual %),1972,10.10084605
+South Africa,ZAF,GDP growth (annual %),1972,1.654787597
+Spain,ESP,GDP growth (annual %),1972,8.149745867
+Sri Lanka,LKA,GDP growth (annual %),1972,-0.41048031
+St. Vincent and the Grenadines,VCT,GDP growth (annual %),1972,25.83148894
+Sudan,SDN,GDP growth (annual %),1972,-5.07098648
+Swaziland,SWZ,GDP growth (annual %),1972,5.424295153
+Sweden,SWE,GDP growth (annual %),1972,2.288738796
+Syrian Arab Republic,SYR,GDP growth (annual %),1972,25.02760713
+Thailand,THA,GDP growth (annual %),1972,4.278508039
+Togo,TGO,GDP growth (annual %),1972,7.625157551
+Trinidad and Tobago,TTO,GDP growth (annual %),1972,5.780347376
+Tunisia,TUN,GDP growth (annual %),1972,17.74271848
+Turkey,TUR,GDP growth (annual %),1972,7.425788325
+United Kingdom,GBR,GDP growth (annual %),1972,4.227470722
+United States,USA,GDP growth (annual %),1972,5.263262776
+Uruguay,URY,GDP growth (annual %),1972,-1.319569861
+"Venezuela, RB",VEN,GDP growth (annual %),1972,1.28280514
+Virgin Islands (U.S.),VIR,GDP growth (annual %),1972,14.66739622
+Zambia,ZMB,GDP growth (annual %),1972,9.208865138
+Zimbabwe,ZWE,GDP growth (annual %),1972,8.329774728
+Caribbean small states,CSS,GDP growth (annual %),1973,-0.690662859
+East Asia & Pacific (all income levels),EAS,GDP growth (annual %),1973,7.898200239
+East Asia & Pacific (developing only),EAP,GDP growth (annual %),1973,8.858789113
+Euro area,EMU,GDP growth (annual %),1973,6.14880897
+Europe & Central Asia (all income levels),ECS,GDP growth (annual %),1973,6.017092222
+European Union,EUU,GDP growth (annual %),1973,6.097119659
+Heavily indebted poor countries (HIPC),HPC,GDP growth (annual %),1973,3.036283905
+High income,HIC,GDP growth (annual %),1973,6.276958146
+High income: OECD,OEC,GDP growth (annual %),1973,6.164785211
+Latin America & Caribbean (all income levels),LCN,GDP growth (annual %),1973,8.079012334
+Latin America & Caribbean (developing only),LAC,GDP growth (annual %),1973,9.820760394
+Low & middle income,LMY,GDP growth (annual %),1973,7.206557311
+Lower middle income,LMC,GDP growth (annual %),1973,4.801454633
+Middle East & North Africa (all income levels),MEA,GDP growth (annual %),1973,9.790791227
+Middle East & North Africa (developing only),MNA,GDP growth (annual %),1973,5.241815461
+Middle income,MIC,GDP growth (annual %),1973,7.320858495
+North America,NAC,GDP growth (annual %),1973,5.75398732
+OECD members,OED,GDP growth (annual %),1973,6.172631652
+South Asia,SAS,GDP growth (annual %),1973,3.74159899
+Sub-Saharan Africa (all income levels),SSF,GDP growth (annual %),1973,4.297974319
+Sub-Saharan Africa (developing only),SSA,GDP growth (annual %),1973,4.292756768
+Upper middle income,UMC,GDP growth (annual %),1973,8.176469917
+World,WLD,GDP growth (annual %),1973,6.38127698
+Algeria,DZA,GDP growth (annual %),1973,3.813176298
+Andorra,ADO,GDP growth (annual %),1973,7.788465414
+Argentina,ARG,GDP growth (annual %),1973,2.811754041
+Australia,AUS,GDP growth (annual %),1973,2.598642439
+Austria,AUT,GDP growth (annual %),1973,4.890435421
+"Bahamas, The",BHS,GDP growth (annual %),1973,7.567568824
+Bangladesh,BGD,GDP growth (annual %),1973,3.325680199
+Belgium,BEL,GDP growth (annual %),1973,6.381702052
+Belize,BLZ,GDP growth (annual %),1973,5.351894111
+Benin,BEN,GDP growth (annual %),1973,3.706165313
+Bermuda,BMU,GDP growth (annual %),1973,1.483679525
+Bolivia,BOL,GDP growth (annual %),1973,5.739161343
+Botswana,BWA,GDP growth (annual %),1973,21.30318409
+Brazil,BRA,GDP growth (annual %),1973,13.97869165
+Burkina Faso,BFA,GDP growth (annual %),1973,0.449327405
+Burundi,BDI,GDP growth (annual %),1973,6.889050718
+Cameroon,CMR,GDP growth (annual %),1973,5.355680778
+Canada,CAN,GDP growth (annual %),1973,6.964202919
+Central African Republic,CAF,GDP growth (annual %),1973,1.888768919
+Chad,TCD,GDP growth (annual %),1973,-8.380883008
+Chile,CHL,GDP growth (annual %),1973,-4.941100699
+China,CHN,GDP growth (annual %),1973,7.899999998
+Colombia,COL,GDP growth (annual %),1973,6.72748176
+"Congo, Dem. Rep.",ZAR,GDP growth (annual %),1973,8.137275887
+"Congo, Rep.",COG,GDP growth (annual %),1973,8.231188944
+Costa Rica,CRI,GDP growth (annual %),1973,7.708915805
+Cote d'Ivoire,CIV,GDP growth (annual %),1973,5.939197536
+Cuba,CUB,GDP growth (annual %),1973,3.434488688
+Denmark,DNK,GDP growth (annual %),1973,3.75923971
+Dominican Republic,DOM,GDP growth (annual %),1973,12.89576373
+Ecuador,ECU,GDP growth (annual %),1973,13.95068213
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),1973,0.705246827
+El Salvador,SLV,GDP growth (annual %),1973,4.861673506
+Fiji,FJI,GDP growth (annual %),1973,11.61286808
+Finland,FIN,GDP growth (annual %),1973,6.983827975
+France,FRA,GDP growth (annual %),1973,6.310450659
+French Polynesia,PYF,GDP growth (annual %),1973,7.802561119
+Gabon,GAB,GDP growth (annual %),1973,10.18243362
+"Gambia, The",GMB,GDP growth (annual %),1973,9.250329251
+Georgia,GEO,GDP growth (annual %),1973,6.482761546
+Germany,DEU,GDP growth (annual %),1973,4.777486913
+Ghana,GHA,GDP growth (annual %),1973,2.884584195
+Greece,GRC,GDP growth (annual %),1973,8.092378719
+Greenland,GRL,GDP growth (annual %),1973,6.806008415
+Guatemala,GTM,GDP growth (annual %),1973,6.782834332
+Guinea-Bissau,GNB,GDP growth (annual %),1973,1.10989279
+Guyana,GUY,GDP growth (annual %),1973,1.244719353
+Honduras,HND,GDP growth (annual %),1973,7.869852503
+"Hong Kong SAR, China",HKG,GDP growth (annual %),1973,12.27992236
+Iceland,ISL,GDP growth (annual %),1973,6.806009704
+India,IND,GDP growth (annual %),1973,3.295521136
+Indonesia,IDN,GDP growth (annual %),1973,9.776163879
+"Iran, Islamic Rep.",IRN,GDP growth (annual %),1973,7.441681612
+Iraq,IRQ,GDP growth (annual %),1973,4.418755565
+Ireland,IRL,GDP growth (annual %),1973,4.721428369
+Israel,ISR,GDP growth (annual %),1973,3.342543125
+Italy,ITA,GDP growth (annual %),1973,7.125862296
+Jamaica,JAM,GDP growth (annual %),1973,-5.485509091
+Japan,JPN,GDP growth (annual %),1973,8.032599975
+Kenya,KEN,GDP growth (annual %),1973,5.896580215
+Kiribati,KIR,GDP growth (annual %),1973,20.90988292
+"Korea, Rep.",KOR,GDP growth (annual %),1973,14.78751649
+Kuwait,KWT,GDP growth (annual %),1973,-4.810750872
+Lesotho,LSO,GDP growth (annual %),1973,26.40488006
+Liberia,LBR,GDP growth (annual %),1973,-2.255975198
+Liechtenstein,LIE,GDP growth (annual %),1973,1.669225644
+Luxembourg,LUX,GDP growth (annual %),1973,8.312677455
+Madagascar,MDG,GDP growth (annual %),1973,-2.61847833
+Malawi,MWI,GDP growth (annual %),1973,2.300661568
+Malaysia,MYS,GDP growth (annual %),1973,11.71420248
+Mali,MLI,GDP growth (annual %),1973,-1.455115797
+Malta,MLT,GDP growth (annual %),1973,4.146155447
+Mauritania,MRT,GDP growth (annual %),1973,-4.584756918
+Mexico,MEX,GDP growth (annual %),1973,7.861119861
+Monaco,MCO,GDP growth (annual %),1973,6.553757509
+Morocco,MAR,GDP growth (annual %),1973,3.559310864
+Myanmar,MMR,GDP growth (annual %),1973,-0.968124717
+Nepal,NPL,GDP growth (annual %),1973,-0.476536268
+Netherlands,NLD,GDP growth (annual %),1973,5.444223134
+New Caledonia,NCL,GDP growth (annual %),1973,-11.19930863
+Nicaragua,NIC,GDP growth (annual %),1973,6.417013974
+Niger,NER,GDP growth (annual %),1973,-17.04758357
+Nigeria,NGA,GDP growth (annual %),1973,5.392760484
+Norway,NOR,GDP growth (annual %),1973,4.532960541
+Oman,OMN,GDP growth (annual %),1973,-14.25205786
+Pakistan,PAK,GDP growth (annual %),1973,7.064263857
+Panama,PAN,GDP growth (annual %),1973,5.405917513
+Papua New Guinea,PNG,GDP growth (annual %),1973,6.529264831
+Paraguay,PRY,GDP growth (annual %),1973,7.302812908
+Peru,PER,GDP growth (annual %),1973,5.375670612
+Philippines,PHL,GDP growth (annual %),1973,8.920646822
+Portugal,PRT,GDP growth (annual %),1973,11.20067102
+Puerto Rico,PRI,GDP growth (annual %),1973,6.344896205
+Rwanda,RWA,GDP growth (annual %),1973,3.438088129
+San Marino,SMR,GDP growth (annual %),1973,7.125857611
+Saudi Arabia,SAU,GDP growth (annual %),1973,22.67252255
+Senegal,SEN,GDP growth (annual %),1973,-5.583240108
+Seychelles,SYC,GDP growth (annual %),1973,9.054186312
+Sierra Leone,SLE,GDP growth (annual %),1973,2.25661825
+Singapore,SGP,GDP growth (annual %),1973,11.12795375
+Somalia,SOM,GDP growth (annual %),1973,-1.951298478
+South Africa,ZAF,GDP growth (annual %),1973,4.572025701
+Spain,ESP,GDP growth (annual %),1973,7.788465253
+Sri Lanka,LKA,GDP growth (annual %),1973,7.057387186
+St. Vincent and the Grenadines,VCT,GDP growth (annual %),1973,-11.10133505
+Sudan,SDN,GDP growth (annual %),1973,0.632195251
+Swaziland,SWZ,GDP growth (annual %),1973,9.018671959
+Sweden,SWE,GDP growth (annual %),1973,3.967981131
+Syrian Arab Republic,SYR,GDP growth (annual %),1973,-8.545176526
+Thailand,THA,GDP growth (annual %),1973,10.23643301
+Togo,TGO,GDP growth (annual %),1973,3.837484001
+Trinidad and Tobago,TTO,GDP growth (annual %),1973,1.656426193
+Tunisia,TUN,GDP growth (annual %),1973,-0.654643889
+Turkey,TUR,GDP growth (annual %),1973,3.262334512
+United Kingdom,GBR,GDP growth (annual %),1973,6.538229154
+United States,USA,GDP growth (annual %),1973,5.643124848
+Uruguay,URY,GDP growth (annual %),1973,0.275199617
+"Venezuela, RB",VEN,GDP growth (annual %),1973,7.109957765
+Virgin Islands (U.S.),VIR,GDP growth (annual %),1973,8.272082151
+Zambia,ZMB,GDP growth (annual %),1973,-0.962048665
+Zimbabwe,ZWE,GDP growth (annual %),1973,2.604714697
+Caribbean small states,CSS,GDP growth (annual %),1974,-3.216918581
+East Asia & Pacific (all income levels),EAS,GDP growth (annual %),1974,0.321908284
+East Asia & Pacific (developing only),EAP,GDP growth (annual %),1974,4.158770442
+Euro area,EMU,GDP growth (annual %),1974,3.205748155
+Europe & Central Asia (all income levels),ECS,GDP growth (annual %),1974,2.220111218
+European Union,EUU,GDP growth (annual %),1974,2.112986909
+Heavily indebted poor countries (HIPC),HPC,GDP growth (annual %),1974,5.628466961
+High income,HIC,GDP growth (annual %),1974,1.149047285
+High income: OECD,OEC,GDP growth (annual %),1974,0.906297927
+Latin America & Caribbean (all income levels),LCN,GDP growth (annual %),1974,6.181904633
+Latin America & Caribbean (developing only),LAC,GDP growth (annual %),1974,7.106682305
+Low & middle income,LMY,GDP growth (annual %),1974,6.047306615
+Lower middle income,LMC,GDP growth (annual %),1974,5.135249955
+Middle East & North Africa (all income levels),MEA,GDP growth (annual %),1974,11.88886908
+Middle East & North Africa (developing only),MNA,GDP growth (annual %),1974,6.696869294
+Middle income,MIC,GDP growth (annual %),1974,6.093784694
+North America,NAC,GDP growth (annual %),1974,-0.153953625
+OECD members,OED,GDP growth (annual %),1974,1.04471633
+South Asia,SAS,GDP growth (annual %),1974,2.294406301
+Sub-Saharan Africa (all income levels),SSF,GDP growth (annual %),1974,7.370981133
+Sub-Saharan Africa (developing only),SSA,GDP growth (annual %),1974,7.377941765
+Upper middle income,UMC,GDP growth (annual %),1974,6.409155252
+World,WLD,GDP growth (annual %),1974,1.702990088
+Algeria,DZA,GDP growth (annual %),1974,7.494917704
+Andorra,ADO,GDP growth (annual %),1974,5.618785784
+Argentina,ARG,GDP growth (annual %),1974,5.533804395
+Australia,AUS,GDP growth (annual %),1974,4.096860795
+Austria,AUT,GDP growth (annual %),1974,3.942138086
+"Bahamas, The",BHS,GDP growth (annual %),1974,-16.75422907
+Bangladesh,BGD,GDP growth (annual %),1974,9.5919563
+Belgium,BEL,GDP growth (annual %),1974,4.565258123
+Belize,BLZ,GDP growth (annual %),1974,13.55998517
+Benin,BEN,GDP growth (annual %),1974,3.339312164
+Bermuda,BMU,GDP growth (annual %),1974,0.877192982
+Bolivia,BOL,GDP growth (annual %),1974,2.939568128
+Botswana,BWA,GDP growth (annual %),1974,8.797795217
+Brazil,BRA,GDP growth (annual %),1974,9.042120313
+Burkina Faso,BFA,GDP growth (annual %),1974,8.286426482
+Burundi,BDI,GDP growth (annual %),1974,-0.726839562
+Cameroon,CMR,GDP growth (annual %),1974,10.73426226
+Canada,CAN,GDP growth (annual %),1974,3.690987636
+Central African Republic,CAF,GDP growth (annual %),1974,6.33914055
+Chad,TCD,GDP growth (annual %),1974,4.961852583
+Chile,CHL,GDP growth (annual %),1974,2.493844515
+China,CHN,GDP growth (annual %),1974,2.300000001
+Colombia,COL,GDP growth (annual %),1974,5.742522109
+"Congo, Dem. Rep.",ZAR,GDP growth (annual %),1974,3.130585879
+"Congo, Rep.",COG,GDP growth (annual %),1974,7.885520809
+Costa Rica,CRI,GDP growth (annual %),1974,5.544900006
+Cote d'Ivoire,CIV,GDP growth (annual %),1974,4.327380857
+Cuba,CUB,GDP growth (annual %),1974,0.984491527
+Denmark,DNK,GDP growth (annual %),1974,-0.815954366
+Dominican Republic,DOM,GDP growth (annual %),1974,6.001902902
+Ecuador,ECU,GDP growth (annual %),1974,11.20850963
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),1974,2.485498649
+El Salvador,SLV,GDP growth (annual %),1974,5.336001101
+Fiji,FJI,GDP growth (annual %),1974,2.60115104
+Finland,FIN,GDP growth (annual %),1974,3.236533613
+France,FRA,GDP growth (annual %),1974,4.291243625
+French Polynesia,PYF,GDP growth (annual %),1974,18.0010489
+Gabon,GAB,GDP growth (annual %),1974,39.48709518
+"Gambia, The",GMB,GDP growth (annual %),1974,5.878793617
+Georgia,GEO,GDP growth (annual %),1974,8.80829341
+Germany,DEU,GDP growth (annual %),1974,0.890068704
+Ghana,GHA,GDP growth (annual %),1974,6.852516832
+Greece,GRC,GDP growth (annual %),1974,-6.438240631
+Greenland,GRL,GDP growth (annual %),1974,5.706253256
+Guatemala,GTM,GDP growth (annual %),1974,6.375029904
+Guinea-Bissau,GNB,GDP growth (annual %),1974,4.559241048
+Guyana,GUY,GDP growth (annual %),1974,7.70283995
+Honduras,HND,GDP growth (annual %),1974,-1.227641731
+"Hong Kong SAR, China",HKG,GDP growth (annual %),1974,2.415095209
+Iceland,ISL,GDP growth (annual %),1974,5.706292146
+India,IND,GDP growth (annual %),1974,1.18533626
+Indonesia,IDN,GDP growth (annual %),1974,8.256876028
+"Iran, Islamic Rep.",IRN,GDP growth (annual %),1974,5.801050848
+Iraq,IRQ,GDP growth (annual %),1974,16.11336735
+Ireland,IRL,GDP growth (annual %),1974,4.260229093
+Israel,ISR,GDP growth (annual %),1974,6.84025836
+Italy,ITA,GDP growth (annual %),1974,5.500141126
+Jamaica,JAM,GDP growth (annual %),1974,-4.22926131
+Japan,JPN,GDP growth (annual %),1974,-1.225239828
+Kenya,KEN,GDP growth (annual %),1974,4.065617347
+Kiribati,KIR,GDP growth (annual %),1974,45.30275362
+"Korea, Rep.",KOR,GDP growth (annual %),1974,9.381908188
+Kuwait,KWT,GDP growth (annual %),1974,-9.552721906
+Lesotho,LSO,GDP growth (annual %),1974,10.98008912
+Liberia,LBR,GDP growth (annual %),1974,4.753200336
+Liechtenstein,LIE,GDP growth (annual %),1974,1.669222506
+Luxembourg,LUX,GDP growth (annual %),1974,4.212467214
+Madagascar,MDG,GDP growth (annual %),1974,2.006879379
+Malawi,MWI,GDP growth (annual %),1974,7.175963607
+Malaysia,MYS,GDP growth (annual %),1974,8.309625779
+Mali,MLI,GDP growth (annual %),1974,-1.528826122
+Malta,MLT,GDP growth (annual %),1974,10.03639076
+Mauritania,MRT,GDP growth (annual %),1974,12.16261106
+Mexico,MEX,GDP growth (annual %),1974,5.776827231
+Monaco,MCO,GDP growth (annual %),1974,4.474611051
+Morocco,MAR,GDP growth (annual %),1974,5.596049918
+Myanmar,MMR,GDP growth (annual %),1974,5.342375687
+Nepal,NPL,GDP growth (annual %),1974,6.333590373
+Netherlands,NLD,GDP growth (annual %),1974,3.438717871
+New Caledonia,NCL,GDP growth (annual %),1974,12.7011152
+Nicaragua,NIC,GDP growth (annual %),1974,14.19242509
+Niger,NER,GDP growth (annual %),1974,8.77523805
+Nigeria,NGA,GDP growth (annual %),1974,11.16067455
+Norway,NOR,GDP growth (annual %),1974,3.92302668
+Oman,OMN,GDP growth (annual %),1974,11.49880648
+Pakistan,PAK,GDP growth (annual %),1974,3.540191713
+Panama,PAN,GDP growth (annual %),1974,2.44150579
+Papua New Guinea,PNG,GDP growth (annual %),1974,2.610532599
+Paraguay,PRY,GDP growth (annual %),1974,8.381525437
+Peru,PER,GDP growth (annual %),1974,9.250073761
+Philippines,PHL,GDP growth (annual %),1974,3.55811508
+Portugal,PRT,GDP growth (annual %),1974,1.142860362
+Puerto Rico,PRI,GDP growth (annual %),1974,2.917378252
+Rwanda,RWA,GDP growth (annual %),1974,1.409823569
+San Marino,SMR,GDP growth (annual %),1974,5.500077694
+Saudi Arabia,SAU,GDP growth (annual %),1974,22.59736217
+Senegal,SEN,GDP growth (annual %),1974,4.200775526
+Seychelles,SYC,GDP growth (annual %),1974,1.302849676
+Sierra Leone,SLE,GDP growth (annual %),1974,3.49982832
+Singapore,SGP,GDP growth (annual %),1974,6.467887264
+Somalia,SOM,GDP growth (annual %),1974,-18.26637874
+South Africa,ZAF,GDP growth (annual %),1974,6.111070816
+Spain,ESP,GDP growth (annual %),1974,5.618785769
+Sri Lanka,LKA,GDP growth (annual %),1974,3.845844485
+St. Vincent and the Grenadines,VCT,GDP growth (annual %),1974,-8.820591531
+Sudan,SDN,GDP growth (annual %),1974,11.44528914
+Swaziland,SWZ,GDP growth (annual %),1974,5.743485792
+Sweden,SWE,GDP growth (annual %),1974,3.19819563
+Syrian Arab Republic,SYR,GDP growth (annual %),1974,24.12722995
+Thailand,THA,GDP growth (annual %),1974,4.466253386
+Togo,TGO,GDP growth (annual %),1974,4.832849119
+Trinidad and Tobago,TTO,GDP growth (annual %),1974,3.807602168
+Tunisia,TUN,GDP growth (annual %),1974,8.07478234
+Turkey,TUR,GDP growth (annual %),1974,5.594474368
+United Kingdom,GBR,GDP growth (annual %),1974,-2.519781974
+United States,USA,GDP growth (annual %),1974,-0.517154562
+Uruguay,URY,GDP growth (annual %),1974,2.895344599
+"Venezuela, RB",VEN,GDP growth (annual %),1974,2.069333071
+Virgin Islands (U.S.),VIR,GDP growth (annual %),1974,3.220686308
+Zambia,ZMB,GDP growth (annual %),1974,6.428158403
+Zimbabwe,ZWE,GDP growth (annual %),1974,6.625153618
+Caribbean small states,CSS,GDP growth (annual %),1975,-1.565398796
+East Asia & Pacific (all income levels),EAS,GDP growth (annual %),1975,3.478059022
+East Asia & Pacific (developing only),EAP,GDP growth (annual %),1975,6.763664404
+Euro area,EMU,GDP growth (annual %),1975,-0.7618724
+Europe & Central Asia (all income levels),ECS,GDP growth (annual %),1975,-0.540893426
+European Union,EUU,GDP growth (annual %),1975,-0.801606069
+Heavily indebted poor countries (HIPC),HPC,GDP growth (annual %),1975,2.31942757
+High income,HIC,GDP growth (annual %),1975,0.184893567
+High income: OECD,OEC,GDP growth (annual %),1975,0.131026472
+Latin America & Caribbean (all income levels),LCN,GDP growth (annual %),1975,3.765107451
+Latin America & Caribbean (developing only),LAC,GDP growth (annual %),1975,5.162850912
+Low & middle income,LMY,GDP growth (annual %),1975,4.892946041
+Lower middle income,LMC,GDP growth (annual %),1975,5.281049406
+Middle East & North Africa (all income levels),MEA,GDP growth (annual %),1975,2.65966363
+Middle East & North Africa (developing only),MNA,GDP growth (annual %),1975,3.011801583
+Middle income,MIC,GDP growth (annual %),1975,5.033219403
+North America,NAC,GDP growth (annual %),1975,-0.015264068
+OECD members,OED,GDP growth (annual %),1975,0.312728057
+South Asia,SAS,GDP growth (annual %),1975,7.216582871
+Sub-Saharan Africa (all income levels),SSF,GDP growth (annual %),1975,0.77592705
+Sub-Saharan Africa (developing only),SSA,GDP growth (annual %),1975,0.773328214
+Upper middle income,UMC,GDP growth (annual %),1975,4.952656236
+World,WLD,GDP growth (annual %),1975,0.739903497
+Algeria,DZA,GDP growth (annual %),1975,5.045341612
+Andorra,ADO,GDP growth (annual %),1975,0.542203245
+Argentina,ARG,GDP growth (annual %),1975,-0.028412103
+Australia,AUS,GDP growth (annual %),1975,1.338248943
+Austria,AUT,GDP growth (annual %),1975,-0.363735688
+"Bahamas, The",BHS,GDP growth (annual %),1975,-14.80312631
+Bangladesh,BGD,GDP growth (annual %),1975,-4.088214092
+Belgium,BEL,GDP growth (annual %),1975,-1.965941621
+Belize,BLZ,GDP growth (annual %),1975,3.592824442
+Benin,BEN,GDP growth (annual %),1975,-4.895345445
+Bermuda,BMU,GDP growth (annual %),1975,3.768115942
+Bolivia,BOL,GDP growth (annual %),1975,7.311017648
+Botswana,BWA,GDP growth (annual %),1975,8.446250376
+Brazil,BRA,GDP growth (annual %),1975,5.209075901
+Brunei Darussalam,BRN,GDP growth (annual %),1975,0.355463411
+Burkina Faso,BFA,GDP growth (annual %),1975,2.99838289
+Burundi,BDI,GDP growth (annual %),1975,0.697920236
+Cameroon,CMR,GDP growth (annual %),1975,11.24505877
+Canada,CAN,GDP growth (annual %),1975,1.822973139
+Central African Republic,CAF,GDP growth (annual %),1975,0.405003879
+Chad,TCD,GDP growth (annual %),1975,9.010267306
+Chile,CHL,GDP growth (annual %),1975,-11.36278013
+China,CHN,GDP growth (annual %),1975,8.699999996
+Colombia,COL,GDP growth (annual %),1975,2.248047059
+"Congo, Dem. Rep.",ZAR,GDP growth (annual %),1975,-4.981631005
+"Congo, Rep.",COG,GDP growth (annual %),1975,7.731596839
+Costa Rica,CRI,GDP growth (annual %),1975,2.100071039
+Cote d'Ivoire,CIV,GDP growth (annual %),1975,8.252886369
+Cuba,CUB,GDP growth (annual %),1975,9.476426331
+Denmark,DNK,GDP growth (annual %),1975,-1.221451732
+Dominican Republic,DOM,GDP growth (annual %),1975,5.193253357
+Ecuador,ECU,GDP growth (annual %),1975,10.972154
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),1975,8.939172851
+El Salvador,SLV,GDP growth (annual %),1975,2.923531888
+Fiji,FJI,GDP growth (annual %),1975,0.530209854
+Finland,FIN,GDP growth (annual %),1975,1.804897704
+France,FRA,GDP growth (annual %),1975,-0.980059534
+French Polynesia,PYF,GDP growth (annual %),1975,-4.902702395
+Gabon,GAB,GDP growth (annual %),1975,19.19011491
+"Gambia, The",GMB,GDP growth (annual %),1975,12.39342908
+Georgia,GEO,GDP growth (annual %),1975,7.380945301
+Germany,DEU,GDP growth (annual %),1975,-0.866738895
+Ghana,GHA,GDP growth (annual %),1975,-12.43162902
+Greece,GRC,GDP growth (annual %),1975,6.366808657
+Greenland,GRL,GDP growth (annual %),1975,0.646239391
+Guatemala,GTM,GDP growth (annual %),1975,1.949990826
+Guinea-Bissau,GNB,GDP growth (annual %),1975,7.84558432
+Guyana,GUY,GDP growth (annual %),1975,8.483021513
+Honduras,HND,GDP growth (annual %),1975,2.130681763
+"Hong Kong SAR, China",HKG,GDP growth (annual %),1975,0.492108264
+Iceland,ISL,GDP growth (annual %),1975,0.64615508
+India,IND,GDP growth (annual %),1975,9.149912014
+Indonesia,IDN,GDP growth (annual %),1975,6.183428952
+"Iran, Islamic Rep.",IRN,GDP growth (annual %),1975,-0.326216241
+Iraq,IRQ,GDP growth (annual %),1975,12.49066467
+Ireland,IRL,GDP growth (annual %),1975,5.656645585
+Israel,ISR,GDP growth (annual %),1975,3.318343376
+Italy,ITA,GDP growth (annual %),1975,-2.090162917
+Jamaica,JAM,GDP growth (annual %),1975,-0.256092257
+Japan,JPN,GDP growth (annual %),1975,3.091575916
+Kenya,KEN,GDP growth (annual %),1975,0.882203178
+Kiribati,KIR,GDP growth (annual %),1975,5.344419884
+"Korea, Rep.",KOR,GDP growth (annual %),1975,7.33744578
+Kuwait,KWT,GDP growth (annual %),1975,-8.000088326
+Lesotho,LSO,GDP growth (annual %),1975,-13.51349626
+Liberia,LBR,GDP growth (annual %),1975,-3.468589489
+Liechtenstein,LIE,GDP growth (annual %),1975,1.669232277
+Luxembourg,LUX,GDP growth (annual %),1975,-6.571370639
+Madagascar,MDG,GDP growth (annual %),1975,1.258691634
+Malawi,MWI,GDP growth (annual %),1975,6.086823808
+Malaysia,MYS,GDP growth (annual %),1975,0.80167001
+Mali,MLI,GDP growth (annual %),1975,11.62504913
+Malta,MLT,GDP growth (annual %),1975,19.56009421
+Mauritania,MRT,GDP growth (annual %),1975,-5.134374446
+Mexico,MEX,GDP growth (annual %),1975,5.744485049
+Monaco,MCO,GDP growth (annual %),1975,-0.972637494
+Morocco,MAR,GDP growth (annual %),1975,7.558221616
+Myanmar,MMR,GDP growth (annual %),1975,4.152709189
+Nepal,NPL,GDP growth (annual %),1975,1.456470708
+Netherlands,NLD,GDP growth (annual %),1975,0.002028683
+New Caledonia,NCL,GDP growth (annual %),1975,6.499471805
+Nicaragua,NIC,GDP growth (annual %),1975,-0.153246894
+Niger,NER,GDP growth (annual %),1975,-2.793193436
+Nigeria,NGA,GDP growth (annual %),1975,-5.227747559
+Norway,NOR,GDP growth (annual %),1975,4.95203452
+Oman,OMN,GDP growth (annual %),1975,24.43350274
+Pakistan,PAK,GDP growth (annual %),1975,4.211415631
+Panama,PAN,GDP growth (annual %),1975,1.590829396
+Papua New Guinea,PNG,GDP growth (annual %),1975,-0.87988417
+Paraguay,PRY,GDP growth (annual %),1975,6.852444714
+Peru,PER,GDP growth (annual %),1975,3.401563994
+Philippines,PHL,GDP growth (annual %),1975,5.564773624
+Portugal,PRT,GDP growth (annual %),1975,-4.347630947
+Puerto Rico,PRI,GDP growth (annual %),1975,-0.654565799
+Rwanda,RWA,GDP growth (annual %),1975,-2.113825414
+San Marino,SMR,GDP growth (annual %),1975,-2.090160529
+Saudi Arabia,SAU,GDP growth (annual %),1975,1.110478644
+Senegal,SEN,GDP growth (annual %),1975,7.535662599
+Seychelles,SYC,GDP growth (annual %),1975,3.177405072
+Sierra Leone,SLE,GDP growth (annual %),1975,1.669216524
+Singapore,SGP,GDP growth (annual %),1975,4.609005081
+Somalia,SOM,GDP growth (annual %),1975,30.07369858
+South Africa,ZAF,GDP growth (annual %),1975,1.695372222
+Spain,ESP,GDP growth (annual %),1975,0.542203325
+Sri Lanka,LKA,GDP growth (annual %),1975,6.126219481
+St. Vincent and the Grenadines,VCT,GDP growth (annual %),1975,-7.608709435
+Sudan,SDN,GDP growth (annual %),1975,15.71346645
+Swaziland,SWZ,GDP growth (annual %),1975,13.90844509
+Sweden,SWE,GDP growth (annual %),1975,2.552862676
+Syrian Arab Republic,SYR,GDP growth (annual %),1975,19.52460785
+Thailand,THA,GDP growth (annual %),1975,4.970405228
+Togo,TGO,GDP growth (annual %),1975,2.440541185
+Trinidad and Tobago,TTO,GDP growth (annual %),1975,1.477963393
+Tunisia,TUN,GDP growth (annual %),1975,7.15610006
+Turkey,TUR,GDP growth (annual %),1975,7.174112693
+United Kingdom,GBR,GDP growth (annual %),1975,-1.549433246
+United States,USA,GDP growth (annual %),1975,-0.197678537
+Uruguay,URY,GDP growth (annual %),1975,6.096914313
+"Venezuela, RB",VEN,GDP growth (annual %),1975,2.896258132
+Virgin Islands (U.S.),VIR,GDP growth (annual %),1975,-0.6156429
+Zambia,ZMB,GDP growth (annual %),1975,-2.269328842
+Zimbabwe,ZWE,GDP growth (annual %),1975,-1.931223239
+Arab World,ARB,GDP growth (annual %),1976,12.60122516
+Caribbean small states,CSS,GDP growth (annual %),1976,0.084606262
+East Asia & Pacific (all income levels),EAS,GDP growth (annual %),1976,4.424406439
+East Asia & Pacific (developing only),EAP,GDP growth (annual %),1976,3.06490255
+Euro area,EMU,GDP growth (annual %),1976,5.012648417
+Europe & Central Asia (all income levels),ECS,GDP growth (annual %),1976,4.725867085
+European Union,EUU,GDP growth (annual %),1976,4.578807542
+Heavily indebted poor countries (HIPC),HPC,GDP growth (annual %),1976,3.86654403
+High income,HIC,GDP growth (annual %),1976,4.945339578
+High income: OECD,OEC,GDP growth (annual %),1976,4.81410802
+Latin America & Caribbean (all income levels),LCN,GDP growth (annual %),1976,5.624654273
+Latin America & Caribbean (developing only),LAC,GDP growth (annual %),1976,6.590188075
+Low & middle income,LMY,GDP growth (annual %),1976,6.650417172
+Lower middle income,LMC,GDP growth (annual %),1976,5.483164076
+Middle East & North Africa (all income levels),MEA,GDP growth (annual %),1976,13.37230235
+Middle East & North Africa (developing only),MNA,GDP growth (annual %),1976,15.34903997
+Middle income,MIC,GDP growth (annual %),1976,6.79416883
+North America,NAC,GDP growth (annual %),1976,5.370525604
+OECD members,OED,GDP growth (annual %),1976,4.859691724
+South Asia,SAS,GDP growth (annual %),1976,2.434736779
+Sub-Saharan Africa (all income levels),SSF,GDP growth (annual %),1976,4.637437395
+Sub-Saharan Africa (developing only),SSA,GDP growth (annual %),1976,4.624540056
+Upper middle income,UMC,GDP growth (annual %),1976,7.220687397
+World,WLD,GDP growth (annual %),1976,5.154419749
+Algeria,DZA,GDP growth (annual %),1976,8.386756483
+Andorra,ADO,GDP growth (annual %),1976,3.303791457
+Argentina,ARG,GDP growth (annual %),1976,-2.018251517
+Australia,AUS,GDP growth (annual %),1976,2.589663293
+Austria,AUT,GDP growth (annual %),1976,4.578445396
+"Bahamas, The",BHS,GDP growth (annual %),1976,5.185184972
+Bangladesh,BGD,GDP growth (annual %),1976,5.661361201
+Belgium,BEL,GDP growth (annual %),1976,5.652745928
+Belize,BLZ,GDP growth (annual %),1976,-0.034020943
+Benin,BEN,GDP growth (annual %),1976,0.884356331
+Bermuda,BMU,GDP growth (annual %),1976,8.938547486
+Bolivia,BOL,GDP growth (annual %),1976,4.614567334
+Botswana,BWA,GDP growth (annual %),1976,10.64737671
+Brazil,BRA,GDP growth (annual %),1976,9.790410161
+Brunei Darussalam,BRN,GDP growth (annual %),1976,20.15539349
+Burkina Faso,BFA,GDP growth (annual %),1976,8.53489497
+Burundi,BDI,GDP growth (annual %),1976,7.942660976
+Cameroon,CMR,GDP growth (annual %),1976,-5.495138397
+Canada,CAN,GDP growth (annual %),1976,5.199302438
+Central African Republic,CAF,GDP growth (annual %),1976,5.432442629
+Chad,TCD,GDP growth (annual %),1976,2.98076527
+Chile,CHL,GDP growth (annual %),1976,3.406383573
+China,CHN,GDP growth (annual %),1976,-1.599999998
+Colombia,COL,GDP growth (annual %),1976,4.817187269
+"Congo, Dem. Rep.",ZAR,GDP growth (annual %),1976,-5.309002081
+"Congo, Rep.",COG,GDP growth (annual %),1976,0.916286753
+Costa Rica,CRI,GDP growth (annual %),1976,5.517564408
+Cote d'Ivoire,CIV,GDP growth (annual %),1976,12.91639744
+Cuba,CUB,GDP growth (annual %),1976,5.427960425
+Cyprus,CYP,GDP growth (annual %),1976,20.26629245
+Denmark,DNK,GDP growth (annual %),1976,6.093500398
+Dominican Republic,DOM,GDP growth (annual %),1976,6.728122643
+Ecuador,ECU,GDP growth (annual %),1976,7.397187619
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),1976,14.62724783
+El Salvador,SLV,GDP growth (annual %),1976,5.049260177
+Fiji,FJI,GDP growth (annual %),1976,2.736163022
+Finland,FIN,GDP growth (annual %),1976,0.344382966
+France,FRA,GDP growth (annual %),1976,4.314246107
+French Polynesia,PYF,GDP growth (annual %),1976,8.203616323
+Gabon,GAB,GDP growth (annual %),1976,35.62533797
+"Gambia, The",GMB,GDP growth (annual %),1976,7.351225734
+Georgia,GEO,GDP growth (annual %),1976,6.097564234
+Germany,DEU,GDP growth (annual %),1976,4.949258392
+Ghana,GHA,GDP growth (annual %),1976,-3.530182806
+Greece,GRC,GDP growth (annual %),1976,6.851897985
+Greenland,GRL,GDP growth (annual %),1976,5.95920961
+Guatemala,GTM,GDP growth (annual %),1976,7.387265623
+Guinea-Bissau,GNB,GDP growth (annual %),1976,4.943455305
+Guyana,GUY,GDP growth (annual %),1976,1.536913278
+Honduras,HND,GDP growth (annual %),1976,10.50069306
+"Hong Kong SAR, China",HKG,GDP growth (annual %),1976,16.16415348
+Iceland,ISL,GDP growth (annual %),1976,5.95936751
+India,IND,GDP growth (annual %),1976,1.663103637
+Indonesia,IDN,GDP growth (annual %),1976,5.988146459
+"Iran, Islamic Rep.",IRN,GDP growth (annual %),1976,18.26043563
+Iraq,IRQ,GDP growth (annual %),1976,17.17510373
+Ireland,IRL,GDP growth (annual %),1976,1.394808118
+Israel,ISR,GDP growth (annual %),1976,1.315853896
+Italy,ITA,GDP growth (annual %),1976,7.125385163
+Jamaica,JAM,GDP growth (annual %),1976,-6.694245095
+Japan,JPN,GDP growth (annual %),1976,3.974984091
+Jordan,JOR,GDP growth (annual %),1976,24.30957216
+Kenya,KEN,GDP growth (annual %),1976,2.153964497
+Kiribati,KIR,GDP growth (annual %),1976,-26.76823252
+"Korea, Rep.",KOR,GDP growth (annual %),1976,13.45565142
+Kuwait,KWT,GDP growth (annual %),1976,9.098076499
+Lesotho,LSO,GDP growth (annual %),1976,11.04912943
+Liberia,LBR,GDP growth (annual %),1976,5.310734074
+Liechtenstein,LIE,GDP growth (annual %),1976,4.75867204
+Luxembourg,LUX,GDP growth (annual %),1976,2.534331226
+Madagascar,MDG,GDP growth (annual %),1976,-3.068858391
+Malawi,MWI,GDP growth (annual %),1976,4.997731259
+Malaysia,MYS,GDP growth (annual %),1976,11.5638362
+Mali,MLI,GDP growth (annual %),1976,13.62343854
+Malta,MLT,GDP growth (annual %),1976,17.01708276
+Mauritania,MRT,GDP growth (annual %),1976,8.546104922
+Mexico,MEX,GDP growth (annual %),1976,4.417444135
+Monaco,MCO,GDP growth (annual %),1976,4.411628782
+Morocco,MAR,GDP growth (annual %),1976,10.81278132
+Myanmar,MMR,GDP growth (annual %),1976,6.080396231
+Nepal,NPL,GDP growth (annual %),1976,4.39853618
+Netherlands,NLD,GDP growth (annual %),1976,4.456309603
+New Caledonia,NCL,GDP growth (annual %),1976,2.299998218
+Nicaragua,NIC,GDP growth (annual %),1976,5.209454497
+Niger,NER,GDP growth (annual %),1976,0.678203402
+Nigeria,NGA,GDP growth (annual %),1976,9.04235173
+Norway,NOR,GDP growth (annual %),1976,5.825551029
+Oman,OMN,GDP growth (annual %),1976,20.54012292
+Pakistan,PAK,GDP growth (annual %),1976,5.15618959
+Panama,PAN,GDP growth (annual %),1976,1.643639439
+Papua New Guinea,PNG,GDP growth (annual %),1976,-3.38844861
+Paraguay,PRY,GDP growth (annual %),1976,7.525949531
+Peru,PER,GDP growth (annual %),1976,1.960723169
+Philippines,PHL,GDP growth (annual %),1976,8.806630567
+Portugal,PRT,GDP growth (annual %),1976,6.900230963
+Puerto Rico,PRI,GDP growth (annual %),1976,6.243087975
+Rwanda,RWA,GDP growth (annual %),1976,19.50457717
+San Marino,SMR,GDP growth (annual %),1976,7.125491662
+Saudi Arabia,SAU,GDP growth (annual %),1976,11.94382167
+Senegal,SEN,GDP growth (annual %),1976,8.920503704
+Seychelles,SYC,GDP growth (annual %),1976,16.27764772
+Sierra Leone,SLE,GDP growth (annual %),1976,-0.449176342
+Singapore,SGP,GDP growth (annual %),1976,7.436719232
+Somalia,SOM,GDP growth (annual %),1976,-1.016716701
+South Africa,ZAF,GDP growth (annual %),1976,2.24998662
+Spain,ESP,GDP growth (annual %),1976,3.303791529
+Sri Lanka,LKA,GDP growth (annual %),1976,3.335108474
+St. Vincent and the Grenadines,VCT,GDP growth (annual %),1976,10.37682032
+Sudan,SDN,GDP growth (annual %),1976,16.66521974
+Suriname,SUR,GDP growth (annual %),1976,-3.572094849
+Swaziland,SWZ,GDP growth (annual %),1976,-2.119437065
+Sweden,SWE,GDP growth (annual %),1976,1.05810486
+Syrian Arab Republic,SYR,GDP growth (annual %),1976,10.96171913
+Thailand,THA,GDP growth (annual %),1976,9.326811082
+Togo,TGO,GDP growth (annual %),1976,-2.05152259
+Trinidad and Tobago,TTO,GDP growth (annual %),1976,6.405148859
+Tunisia,TUN,GDP growth (annual %),1976,7.876852578
+Turkey,TUR,GDP growth (annual %),1976,10.46117958
+United Arab Emirates,ARE,GDP growth (annual %),1976,16.52685649
+United Kingdom,GBR,GDP growth (annual %),1976,3.028329852
+United States,USA,GDP growth (annual %),1976,5.386090051
+Uruguay,URY,GDP growth (annual %),1976,3.935470176
+"Venezuela, RB",VEN,GDP growth (annual %),1976,7.727739497
+Virgin Islands (U.S.),VIR,GDP growth (annual %),1976,-2.322966529
+Zambia,ZMB,GDP growth (annual %),1976,6.220975138
+Zimbabwe,ZWE,GDP growth (annual %),1976,0.464838906
+Arab World,ARB,GDP growth (annual %),1977,8.298998395
+Caribbean small states,CSS,GDP growth (annual %),1977,4.391923345
+East Asia & Pacific (all income levels),EAS,GDP growth (annual %),1977,5.21487435
+East Asia & Pacific (developing only),EAP,GDP growth (annual %),1977,7.704947925
+Euro area,EMU,GDP growth (annual %),1977,3.087002881
+Europe & Central Asia (all income levels),ECS,GDP growth (annual %),1977,2.885431548
+European Union,EUU,GDP growth (annual %),1977,2.839437081
+Heavily indebted poor countries (HIPC),HPC,GDP growth (annual %),1977,3.941453679
+High income,HIC,GDP growth (annual %),1977,3.951334969
+High income: OECD,OEC,GDP growth (annual %),1977,3.769940239
+Latin America & Caribbean (all income levels),LCN,GDP growth (annual %),1977,4.70446475
+Latin America & Caribbean (developing only),LAC,GDP growth (annual %),1977,4.093198693
+Low & middle income,LMY,GDP growth (annual %),1977,4.080662036
+Lower middle income,LMC,GDP growth (annual %),1977,6.571726766
+Middle East & North Africa (all income levels),MEA,GDP growth (annual %),1977,4.382361834
+Middle East & North Africa (developing only),MNA,GDP growth (annual %),1977,0.681511169
+Middle income,MIC,GDP growth (annual %),1977,4.131726272
+North America,NAC,GDP growth (annual %),1977,4.504467171
+OECD members,OED,GDP growth (annual %),1977,3.757870131
+Small states,SST,GDP growth (annual %),1977,0.320851958
+South Asia,SAS,GDP growth (annual %),1977,6.402160269
+Sub-Saharan Africa (all income levels),SSF,GDP growth (annual %),1977,1.839261925
+Sub-Saharan Africa (developing only),SSA,GDP growth (annual %),1977,1.849091099
+Upper middle income,UMC,GDP growth (annual %),1977,3.351579377
+World,WLD,GDP growth (annual %),1977,3.967429822
+Algeria,DZA,GDP growth (annual %),1977,5.258585985
+Andorra,ADO,GDP growth (annual %),1977,2.838574307
+Argentina,ARG,GDP growth (annual %),1977,6.934147755
+Australia,AUS,GDP growth (annual %),1977,3.607278322
+Austria,AUT,GDP growth (annual %),1977,5.079980839
+"Bahamas, The",BHS,GDP growth (annual %),1977,9.154929219
+Bangladesh,BGD,GDP growth (annual %),1977,2.67305605
+Belgium,BEL,GDP growth (annual %),1977,0.626154768
+Belize,BLZ,GDP growth (annual %),1977,6.496594287
+Benin,BEN,GDP growth (annual %),1977,4.983663721
+Bermuda,BMU,GDP growth (annual %),1977,5.897435897
+Bolivia,BOL,GDP growth (annual %),1977,4.971216087
+Botswana,BWA,GDP growth (annual %),1977,12.01204009
+Brazil,BRA,GDP growth (annual %),1977,4.606318061
+Brunei Darussalam,BRN,GDP growth (annual %),1977,10.91669723
+Burkina Faso,BFA,GDP growth (annual %),1977,0.370353558
+Burundi,BDI,GDP growth (annual %),1977,11.46945304
+Cameroon,CMR,GDP growth (annual %),1977,13.73987152
+Canada,CAN,GDP growth (annual %),1977,3.458230596
+Central African Republic,CAF,GDP growth (annual %),1977,3.806281067
+Chad,TCD,GDP growth (annual %),1977,2.234624849
+Chile,CHL,GDP growth (annual %),1977,8.697440297
+China,CHN,GDP growth (annual %),1977,7.599999996
+Colombia,COL,GDP growth (annual %),1977,4.148013439
+"Congo, Dem. Rep.",ZAR,GDP growth (annual %),1977,0.760793602
+"Congo, Rep.",COG,GDP growth (annual %),1977,-8.953427981
+Costa Rica,CRI,GDP growth (annual %),1977,8.904474431
+Cote d'Ivoire,CIV,GDP growth (annual %),1977,7.314459155
+Cuba,CUB,GDP growth (annual %),1977,8.709502863
+Cyprus,CYP,GDP growth (annual %),1977,16.3620002
+Denmark,DNK,GDP growth (annual %),1977,1.978853936
+Dominican Republic,DOM,GDP growth (annual %),1977,4.981783949
+Ecuador,ECU,GDP growth (annual %),1977,1.604842112
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),1977,12.83695849
+El Salvador,SLV,GDP growth (annual %),1977,6.78006173
+Fiji,FJI,GDP growth (annual %),1977,5.904011483
+Finland,FIN,GDP growth (annual %),1977,0.239510404
+France,FRA,GDP growth (annual %),1977,3.451368946
+French Polynesia,PYF,GDP growth (annual %),1977,2.078992708
+Gabon,GAB,GDP growth (annual %),1977,-12.58209117
+"Gambia, The",GMB,GDP growth (annual %),1977,3.439576058
+Georgia,GEO,GDP growth (annual %),1977,6.896550161
+Germany,DEU,GDP growth (annual %),1977,3.347218088
+Ghana,GHA,GDP growth (annual %),1977,2.274107244
+Greece,GRC,GDP growth (annual %),1977,2.941001771
+Greenland,GRL,GDP growth (annual %),1977,8.822314651
+Guatemala,GTM,GDP growth (annual %),1977,7.809220685
+Guinea-Bissau,GNB,GDP growth (annual %),1977,-7.170069971
+Guyana,GUY,GDP growth (annual %),1977,-2.63867966
+Honduras,HND,GDP growth (annual %),1977,10.38388909
+"Hong Kong SAR, China",HKG,GDP growth (annual %),1977,11.72584641
+Iceland,ISL,GDP growth (annual %),1977,8.822277252
+India,IND,GDP growth (annual %),1977,7.254764585
+Indonesia,IDN,GDP growth (annual %),1977,8.636465156
+"Iran, Islamic Rep.",IRN,GDP growth (annual %),1977,-2.773577692
+Iraq,IRQ,GDP growth (annual %),1977,1.899959394
+Ireland,IRL,GDP growth (annual %),1977,8.211300289
+Israel,ISR,GDP growth (annual %),1977,-0.007967159
+Italy,ITA,GDP growth (annual %),1977,2.560500795
+Jamaica,JAM,GDP growth (annual %),1977,-2.597548698
+Japan,JPN,GDP growth (annual %),1977,4.39033795
+Jordan,JOR,GDP growth (annual %),1977,6.509946267
+Kenya,KEN,GDP growth (annual %),1977,9.453797849
+Kiribati,KIR,GDP growth (annual %),1977,-4.612629567
+"Korea, Rep.",KOR,GDP growth (annual %),1977,11.81775501
+Kuwait,KWT,GDP growth (annual %),1977,-0.103370273
+Lesotho,LSO,GDP growth (annual %),1977,21.80903331
+Liberia,LBR,GDP growth (annual %),1977,1.587984567
+Liechtenstein,LIE,GDP growth (annual %),1977,4.758677091
+Luxembourg,LUX,GDP growth (annual %),1977,1.569777033
+Madagascar,MDG,GDP growth (annual %),1977,2.364000359
+Malawi,MWI,GDP growth (annual %),1977,4.918031365
+Malaysia,MYS,GDP growth (annual %),1977,7.756474348
+Mali,MLI,GDP growth (annual %),1977,6.348647195
+Malta,MLT,GDP growth (annual %),1977,12.18416622
+Mauritania,MRT,GDP growth (annual %),1977,-1.8785937
+Mauritius,MUS,GDP growth (annual %),1977,6.547619048
+Mexico,MEX,GDP growth (annual %),1977,3.390639707
+Monaco,MCO,GDP growth (annual %),1977,3.553236083
+Morocco,MAR,GDP growth (annual %),1977,6.059167676
+Myanmar,MMR,GDP growth (annual %),1977,5.952286611
+Nepal,NPL,GDP growth (annual %),1977,3.016973441
+Netherlands,NLD,GDP growth (annual %),1977,2.520440469
+New Caledonia,NCL,GDP growth (annual %),1977,1.899824279
+Nicaragua,NIC,GDP growth (annual %),1977,8.368480533
+Niger,NER,GDP growth (annual %),1977,7.764581119
+Nigeria,NGA,GDP growth (annual %),1977,6.024117846
+Norway,NOR,GDP growth (annual %),1977,4.160767206
+Oman,OMN,GDP growth (annual %),1977,1.00721833
+Pakistan,PAK,GDP growth (annual %),1977,3.947698287
+Panama,PAN,GDP growth (annual %),1977,1.155447342
+Papua New Guinea,PNG,GDP growth (annual %),1977,0.834815597
+Paraguay,PRY,GDP growth (annual %),1977,11.4940816
+Peru,PER,GDP growth (annual %),1977,0.402916641
+Philippines,PHL,GDP growth (annual %),1977,5.602055577
+Portugal,PRT,GDP growth (annual %),1977,5.602597252
+Puerto Rico,PRI,GDP growth (annual %),1977,5.950680366
+Rwanda,RWA,GDP growth (annual %),1977,1.99410948
+San Marino,SMR,GDP growth (annual %),1977,2.560374869
+Saudi Arabia,SAU,GDP growth (annual %),1977,6.89417868
+Senegal,SEN,GDP growth (annual %),1977,-2.682905305
+Seychelles,SYC,GDP growth (annual %),1977,-6.190226813
+Sierra Leone,SLE,GDP growth (annual %),1977,0.04667581
+Singapore,SGP,GDP growth (annual %),1977,7.486151919
+Somalia,SOM,GDP growth (annual %),1977,23.30749051
+South Africa,ZAF,GDP growth (annual %),1977,-0.094095706
+Spain,ESP,GDP growth (annual %),1977,2.838574285
+Sri Lanka,LKA,GDP growth (annual %),1977,5.100602939
+St. Vincent and the Grenadines,VCT,GDP growth (annual %),1977,13.22941109
+Sudan,SDN,GDP growth (annual %),1977,6.223853782
+Suriname,SUR,GDP growth (annual %),1977,10.09125098
+Swaziland,SWZ,GDP growth (annual %),1977,1.009592175
+Sweden,SWE,GDP growth (annual %),1977,-1.596258582
+Syrian Arab Republic,SYR,GDP growth (annual %),1977,-1.273737974
+Thailand,THA,GDP growth (annual %),1977,9.843463235
+Togo,TGO,GDP growth (annual %),1977,6.95908537
+Trinidad and Tobago,TTO,GDP growth (annual %),1977,9.121791551
+Tunisia,TUN,GDP growth (annual %),1977,3.411095743
+Turkey,TUR,GDP growth (annual %),1977,3.406669805
+United Arab Emirates,ARE,GDP growth (annual %),1977,21.43933016
+United Kingdom,GBR,GDP growth (annual %),1977,2.596265856
+United States,USA,GDP growth (annual %),1977,4.608597407
+Uruguay,URY,GDP growth (annual %),1977,1.455461179
+"Venezuela, RB",VEN,GDP growth (annual %),1977,6.270783552
+Virgin Islands (U.S.),VIR,GDP growth (annual %),1977,-1.066589795
+Zambia,ZMB,GDP growth (annual %),1977,-4.564236058
+Zimbabwe,ZWE,GDP growth (annual %),1977,-6.860703193
+Arab World,ARB,GDP growth (annual %),1978,1.674562132
+Caribbean small states,CSS,GDP growth (annual %),1978,6.456039253
+East Asia & Pacific (all income levels),EAS,GDP growth (annual %),1978,5.710443465
+East Asia & Pacific (developing only),EAP,GDP growth (annual %),1978,9.863785807
+Euro area,EMU,GDP growth (annual %),1978,3.130694669
+Europe & Central Asia (all income levels),ECS,GDP growth (annual %),1978,3.215667315
+European Union,EUU,GDP growth (annual %),1978,3.236029044
+Heavily indebted poor countries (HIPC),HPC,GDP growth (annual %),1978,2.509793351
+High income,HIC,GDP growth (annual %),1978,4.246824243
+High income: OECD,OEC,GDP growth (annual %),1978,4.35728001
+Latin America & Caribbean (all income levels),LCN,GDP growth (annual %),1978,4.46807515
+Latin America & Caribbean (developing only),LAC,GDP growth (annual %),1978,5.650811528
+Low & middle income,LMY,GDP growth (annual %),1978,4.22436124
+Lower middle income,LMC,GDP growth (annual %),1978,4.835385593
+Middle East & North Africa (all income levels),MEA,GDP growth (annual %),1978,-2.130777843
+Middle East & North Africa (developing only),MNA,GDP growth (annual %),1978,-3.916613953
+Middle income,MIC,GDP growth (annual %),1978,4.311845043
+North America,NAC,GDP growth (annual %),1978,5.415051944
+OECD members,OED,GDP growth (annual %),1978,4.429486392
+Small states,SST,GDP growth (annual %),1978,-0.048201556
+South Asia,SAS,GDP growth (annual %),1978,6.054049675
+Sub-Saharan Africa (all income levels),SSF,GDP growth (annual %),1978,0.691385464
+Sub-Saharan Africa (developing only),SSA,GDP growth (annual %),1978,0.66831628
+Upper middle income,UMC,GDP growth (annual %),1978,4.139274317
+World,WLD,GDP growth (annual %),1978,4.244033617
+Algeria,DZA,GDP growth (annual %),1978,9.2148357
+Andorra,ADO,GDP growth (annual %),1978,1.463003413
+Antigua and Barbuda,ATG,GDP growth (annual %),1978,4.184123692
+Argentina,ARG,GDP growth (annual %),1978,-4.506124802
+Australia,AUS,GDP growth (annual %),1978,0.896974943
+Austria,AUT,GDP growth (annual %),1978,-0.210653522
+"Bahamas, The",BHS,GDP growth (annual %),1978,14.17952014
+Bangladesh,BGD,GDP growth (annual %),1978,7.073837733
+Belgium,BEL,GDP growth (annual %),1978,2.841896582
+Belize,BLZ,GDP growth (annual %),1978,7.920807179
+Benin,BEN,GDP growth (annual %),1978,1.255078034
+Bermuda,BMU,GDP growth (annual %),1978,1.452784504
+Bolivia,BOL,GDP growth (annual %),1978,2.052694442
+Botswana,BWA,GDP growth (annual %),1978,14.33280159
+Brazil,BRA,GDP growth (annual %),1978,3.231709563
+Brunei Darussalam,BRN,GDP growth (annual %),1978,6.775834956
+Burkina Faso,BFA,GDP growth (annual %),1978,4.607825005
+Burundi,BDI,GDP growth (annual %),1978,-0.940575989
+Cameroon,CMR,GDP growth (annual %),1978,22.00300492
+Canada,CAN,GDP growth (annual %),1978,3.953591268
+Central African Republic,CAF,GDP growth (annual %),1978,1.209223477
+Chad,TCD,GDP growth (annual %),1978,-0.469634188
+Chile,CHL,GDP growth (annual %),1978,7.462926811
+China,CHN,GDP growth (annual %),1978,11.88190617
+Colombia,COL,GDP growth (annual %),1978,8.46345
+"Congo, Dem. Rep.",ZAR,GDP growth (annual %),1978,-5.345291528
+"Congo, Rep.",COG,GDP growth (annual %),1978,6.35974701
+Costa Rica,CRI,GDP growth (annual %),1978,6.267686829
+Cote d'Ivoire,CIV,GDP growth (annual %),1978,10.90945365
+Cuba,CUB,GDP growth (annual %),1978,6.595998422
+Cyprus,CYP,GDP growth (annual %),1978,7.777405016
+Denmark,DNK,GDP growth (annual %),1978,2.27454664
+Dominica,DMA,GDP growth (annual %),1978,11.77249771
+Dominican Republic,DOM,GDP growth (annual %),1978,2.140684677
+Ecuador,ECU,GDP growth (annual %),1978,5.706824945
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),1978,5.779710067
+El Salvador,SLV,GDP growth (annual %),1978,5.322765837
+Fiji,FJI,GDP growth (annual %),1978,1.863400801
+Finland,FIN,GDP growth (annual %),1978,2.91970809
+France,FRA,GDP growth (annual %),1978,3.978805853
+French Polynesia,PYF,GDP growth (annual %),1978,9.892559299
+Gabon,GAB,GDP growth (annual %),1978,-24.04920607
+"Gambia, The",GMB,GDP growth (annual %),1978,6.316446315
+Georgia,GEO,GDP growth (annual %),1978,7.429127692
+Germany,DEU,GDP growth (annual %),1978,3.008492877
+Ghana,GHA,GDP growth (annual %),1978,8.475935599
+Greece,GRC,GDP growth (annual %),1978,7.246863293
+Greenland,GRL,GDP growth (annual %),1978,6.016717122
+Grenada,GRD,GDP growth (annual %),1978,5.414719583
+Guatemala,GTM,GDP growth (annual %),1978,4.996689821
+Guinea-Bissau,GNB,GDP growth (annual %),1978,13.12604338
+Guyana,GUY,GDP growth (annual %),1978,-1.806188772
+Honduras,HND,GDP growth (annual %),1978,10.00570129
+"Hong Kong SAR, China",HKG,GDP growth (annual %),1978,8.260933334
+Iceland,ISL,GDP growth (annual %),1978,6.016714598
+India,IND,GDP growth (annual %),1978,5.712532089
+Indonesia,IDN,GDP growth (annual %),1978,9.20555751
+"Iran, Islamic Rep.",IRN,GDP growth (annual %),1978,-12.84085667
+Iraq,IRQ,GDP growth (annual %),1978,17.05696466
+Ireland,IRL,GDP growth (annual %),1978,7.186728668
+Israel,ISR,GDP growth (annual %),1978,4.821514271
+Italy,ITA,GDP growth (annual %),1978,3.240139793
+Jamaica,JAM,GDP growth (annual %),1978,-0.053700315
+Japan,JPN,GDP growth (annual %),1978,5.271941503
+Jordan,JOR,GDP growth (annual %),1978,21.00411821
+Kenya,KEN,GDP growth (annual %),1978,6.912493547
+Kiribati,KIR,GDP growth (annual %),1978,1.05959334
+"Korea, Rep.",KOR,GDP growth (annual %),1978,10.29758717
+Kuwait,KWT,GDP growth (annual %),1978,7.359335593
+Lesotho,LSO,GDP growth (annual %),1978,18.31687593
+Liberia,LBR,GDP growth (annual %),1978,4.816220628
+Liechtenstein,LIE,GDP growth (annual %),1978,4.758676835
+Luxembourg,LUX,GDP growth (annual %),1978,4.074971206
+Madagascar,MDG,GDP growth (annual %),1978,-2.661805965
+Malawi,MWI,GDP growth (annual %),1978,9.745068039
+Malaysia,MYS,GDP growth (annual %),1978,6.652034738
+Mali,MLI,GDP growth (annual %),1978,-1.46347634
+Malta,MLT,GDP growth (annual %),1978,11.16116115
+Mauritania,MRT,GDP growth (annual %),1978,-0.504713835
+Mauritius,MUS,GDP growth (annual %),1978,3.830806065
+Mexico,MEX,GDP growth (annual %),1978,8.956942327
+Monaco,MCO,GDP growth (annual %),1978,3.953551301
+Morocco,MAR,GDP growth (annual %),1978,2.232663399
+Myanmar,MMR,GDP growth (annual %),1978,6.517817022
+Nepal,NPL,GDP growth (annual %),1978,4.40574139
+Netherlands,NLD,GDP growth (annual %),1978,2.696246756
+New Caledonia,NCL,GDP growth (annual %),1978,9.800007197
+New Zealand,NZL,GDP growth (annual %),1978,0.318069032
+Nicaragua,NIC,GDP growth (annual %),1978,-7.838800375
+Niger,NER,GDP growth (annual %),1978,13.47261233
+Nigeria,NGA,GDP growth (annual %),1978,-5.764158392
+Norway,NOR,GDP growth (annual %),1978,3.869332141
+Oman,OMN,GDP growth (annual %),1978,-3.69353109
+Pakistan,PAK,GDP growth (annual %),1978,8.048533619
+Panama,PAN,GDP growth (annual %),1978,9.739919072
+Papua New Guinea,PNG,GDP growth (annual %),1978,8.549859336
+Paraguay,PRY,GDP growth (annual %),1978,12.02872995
+Peru,PER,GDP growth (annual %),1978,0.282736372
+Philippines,PHL,GDP growth (annual %),1978,5.172103287
+Portugal,PRT,GDP growth (annual %),1978,2.815966072
+Puerto Rico,PRI,GDP growth (annual %),1978,6.931947667
+Rwanda,RWA,GDP growth (annual %),1978,9.15084082
+San Marino,SMR,GDP growth (annual %),1978,3.240133041
+Saudi Arabia,SAU,GDP growth (annual %),1978,-0.991991435
+Senegal,SEN,GDP growth (annual %),1978,-3.953931262
+Seychelles,SYC,GDP growth (annual %),1978,21.15169252
+Sierra Leone,SLE,GDP growth (annual %),1978,2.406332166
+Singapore,SGP,GDP growth (annual %),1978,8.70318587
+Somalia,SOM,GDP growth (annual %),1978,3.727489087
+South Africa,ZAF,GDP growth (annual %),1978,3.014507792
+Spain,ESP,GDP growth (annual %),1978,1.463003374
+Sri Lanka,LKA,GDP growth (annual %),1978,5.65383846
+St. Kitts and Nevis,KNA,GDP growth (annual %),1978,4.380354458
+St. Vincent and the Grenadines,VCT,GDP growth (annual %),1978,9.777046233
+Sudan,SDN,GDP growth (annual %),1978,-5.930986722
+Suriname,SUR,GDP growth (annual %),1978,7.613497515
+Swaziland,SWZ,GDP growth (annual %),1978,1.32712754
+Sweden,SWE,GDP growth (annual %),1978,1.751548043
+Syrian Arab Republic,SYR,GDP growth (annual %),1978,8.726630988
+Thailand,THA,GDP growth (annual %),1978,10.29574653
+Togo,TGO,GDP growth (annual %),1978,11.04543451
+Trinidad and Tobago,TTO,GDP growth (annual %),1978,10.01647569
+Tunisia,TUN,GDP growth (annual %),1978,6.440473802
+Turkey,TUR,GDP growth (annual %),1978,1.502932994
+United Arab Emirates,ARE,GDP growth (annual %),1978,-1.5896033
+United Kingdom,GBR,GDP growth (annual %),1978,4.130616496
+United States,USA,GDP growth (annual %),1978,5.561684929
+Uruguay,URY,GDP growth (annual %),1978,5.373985348
+"Venezuela, RB",VEN,GDP growth (annual %),1978,2.346896385
+Virgin Islands (U.S.),VIR,GDP growth (annual %),1978,3.452792541
+Zambia,ZMB,GDP growth (annual %),1978,0.553763681
+Zimbabwe,ZWE,GDP growth (annual %),1978,-2.706922485
+Arab World,ARB,GDP growth (annual %),1979,10.28398808
+Caribbean small states,CSS,GDP growth (annual %),1979,4.411562131
+East Asia & Pacific (all income levels),EAS,GDP growth (annual %),1979,5.808221326
+East Asia & Pacific (developing only),EAP,GDP growth (annual %),1979,7.122893724
+Euro area,EMU,GDP growth (annual %),1979,3.851324927
+Europe & Central Asia (all income levels),ECS,GDP growth (annual %),1979,3.740223698
+European Union,EUU,GDP growth (annual %),1979,3.824181203
+Heavily indebted poor countries (HIPC),HPC,GDP growth (annual %),1979,0.035220629
+High income,HIC,GDP growth (annual %),1979,4.089738408
+High income: OECD,OEC,GDP growth (annual %),1979,3.878863535
+Latin America & Caribbean (all income levels),LCN,GDP growth (annual %),1979,6.966792055
+Latin America & Caribbean (developing only),LAC,GDP growth (annual %),1979,7.047623974
+Low & middle income,LMY,GDP growth (annual %),1979,3.987424854
+Lower middle income,LMC,GDP growth (annual %),1979,1.185845924
+Middle East & North Africa (all income levels),MEA,GDP growth (annual %),1979,4.556258405
+Middle East & North Africa (developing only),MNA,GDP growth (annual %),1979,-2.480762923
+Middle income,MIC,GDP growth (annual %),1979,4.022564027
+North America,NAC,GDP growth (annual %),1979,3.231162909
+OECD members,OED,GDP growth (annual %),1979,3.96803953
+Small states,SST,GDP growth (annual %),1979,4.351663641
+South Asia,SAS,GDP growth (annual %),1979,-3.045178243
+Sub-Saharan Africa (all income levels),SSF,GDP growth (annual %),1979,3.798427429
+Sub-Saharan Africa (developing only),SSA,GDP growth (annual %),1979,3.78214984
+Upper middle income,UMC,GDP growth (annual %),1979,4.963860285
+World,WLD,GDP growth (annual %),1979,4.07703018
+Algeria,DZA,GDP growth (annual %),1979,7.477826553
+Andorra,ADO,GDP growth (annual %),1979,0.041546518
+Antigua and Barbuda,ATG,GDP growth (annual %),1979,7.343571085
+Argentina,ARG,GDP growth (annual %),1979,10.22276346
+Australia,AUS,GDP growth (annual %),1979,4.052844193
+Austria,AUT,GDP growth (annual %),1979,5.356699873
+"Bahamas, The",BHS,GDP growth (annual %),1979,26.13929577
+Bangladesh,BGD,GDP growth (annual %),1979,4.801634601
+Belgium,BEL,GDP growth (annual %),1979,2.341073043
+Belize,BLZ,GDP growth (annual %),1979,7.517021513
+Benin,BEN,GDP growth (annual %),1979,6.535747407
+Bermuda,BMU,GDP growth (annual %),1979,2.14797136
+Bolivia,BOL,GDP growth (annual %),1979,0.133344041
+Botswana,BWA,GDP growth (annual %),1979,12.14858892
+Brazil,BRA,GDP growth (annual %),1979,6.766284965
+Brunei Darussalam,BRN,GDP growth (annual %),1979,22.56242804
+Burkina Faso,BFA,GDP growth (annual %),1979,3.664621512
+Burundi,BDI,GDP growth (annual %),1979,1.66495495
+Cameroon,CMR,GDP growth (annual %),1979,6.035118773
+Canada,CAN,GDP growth (annual %),1979,3.804922884
+Central African Republic,CAF,GDP growth (annual %),1979,-2.465071279
+Chad,TCD,GDP growth (annual %),1979,-21.44108769
+Chile,CHL,GDP growth (annual %),1979,8.682319916
+China,CHN,GDP growth (annual %),1979,7.599999997
+Colombia,COL,GDP growth (annual %),1979,5.382853373
+"Congo, Dem. Rep.",ZAR,GDP growth (annual %),1979,0.430088262
+"Congo, Rep.",COG,GDP growth (annual %),1979,9.813224739
+Costa Rica,CRI,GDP growth (annual %),1979,4.93912395
+Cote d'Ivoire,CIV,GDP growth (annual %),1979,2.394407464
+Cuba,CUB,GDP growth (annual %),1979,1.088183477
+Cyprus,CYP,GDP growth (annual %),1979,9.905568041
+Denmark,DNK,GDP growth (annual %),1979,3.950129277
+Dominica,DMA,GDP growth (annual %),1979,-18.44415398
+Dominican Republic,DOM,GDP growth (annual %),1979,4.531399217
+Ecuador,ECU,GDP growth (annual %),1979,3.734048401
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),1979,6.038857115
+El Salvador,SLV,GDP growth (annual %),1979,-4.180265437
+Fiji,FJI,GDP growth (annual %),1979,12.22482087
+Finland,FIN,GDP growth (annual %),1979,7.121926394
+France,FRA,GDP growth (annual %),1979,3.559112323
+French Polynesia,PYF,GDP growth (annual %),1979,3.925924174
+Gabon,GAB,GDP growth (annual %),1979,0.474405278
+"Gambia, The",GMB,GDP growth (annual %),1979,-1.328183166
+Georgia,GEO,GDP growth (annual %),1979,7.370346072
+Germany,DEU,GDP growth (annual %),1979,4.150363333
+Ghana,GHA,GDP growth (annual %),1979,-2.514941418
+Greece,GRC,GDP growth (annual %),1979,3.282080248
+Greenland,GRL,GDP growth (annual %),1979,4.860598687
+Grenada,GRD,GDP growth (annual %),1979,6.011886135
+Guatemala,GTM,GDP growth (annual %),1979,4.713456087
+Guinea-Bissau,GNB,GDP growth (annual %),1979,1.994144363
+Guyana,GUY,GDP growth (annual %),1979,-1.835696261
+Honduras,HND,GDP growth (annual %),1979,4.66442082
+"Hong Kong SAR, China",HKG,GDP growth (annual %),1979,11.55677043
+Iceland,ISL,GDP growth (annual %),1979,4.860582385
+India,IND,GDP growth (annual %),1979,-5.238182703
+Indonesia,IDN,GDP growth (annual %),1979,7.092622175
+"Iran, Islamic Rep.",IRN,GDP growth (annual %),1979,-12.02076025
+Iraq,IRQ,GDP growth (annual %),1979,20.86925543
+Ireland,IRL,GDP growth (annual %),1979,3.073036235
+Israel,ISR,GDP growth (annual %),1979,6.284798676
+Italy,ITA,GDP growth (annual %),1979,5.95915945
+Jamaica,JAM,GDP growth (annual %),1979,-1.060041317
+Japan,JPN,GDP growth (annual %),1979,5.484041832
+Jordan,JOR,GDP growth (annual %),1979,9.120068139
+Kenya,KEN,GDP growth (annual %),1979,7.615226042
+Kiribati,KIR,GDP growth (annual %),1979,-11.58499423
+"Korea, Rep.",KOR,GDP growth (annual %),1979,8.389703142
+Kuwait,KWT,GDP growth (annual %),1979,13.914124
+Lesotho,LSO,GDP growth (annual %),1979,2.893918885
+Liberia,LBR,GDP growth (annual %),1979,3.26481969
+Liechtenstein,LIE,GDP growth (annual %),1979,4.758671481
+Luxembourg,LUX,GDP growth (annual %),1979,2.345609021
+Madagascar,MDG,GDP growth (annual %),1979,9.85465029
+Malawi,MWI,GDP growth (annual %),1979,4.396153717
+Malaysia,MYS,GDP growth (annual %),1979,9.349101406
+Mali,MLI,GDP growth (annual %),1979,10.39567723
+Malta,MLT,GDP growth (annual %),1979,10.49076999
+Mauritania,MRT,GDP growth (annual %),1979,4.790039851
+Mauritius,MUS,GDP growth (annual %),1979,3.516525749
+Mexico,MEX,GDP growth (annual %),1979,9.698170138
+Monaco,MCO,GDP growth (annual %),1979,3.534204929
+Morocco,MAR,GDP growth (annual %),1979,4.793787174
+Myanmar,MMR,GDP growth (annual %),1979,5.20127748
+Nepal,NPL,GDP growth (annual %),1979,2.368877794
+Netherlands,NLD,GDP growth (annual %),1979,2.014166189
+New Caledonia,NCL,GDP growth (annual %),1979,-13.60000507
+New Zealand,NZL,GDP growth (annual %),1979,2.191804994
+Nicaragua,NIC,GDP growth (annual %),1979,-26.47878886
+Niger,NER,GDP growth (annual %),1979,7.146996066
+Nigeria,NGA,GDP growth (annual %),1979,6.759430935
+Norway,NOR,GDP growth (annual %),1979,4.372510156
+Oman,OMN,GDP growth (annual %),1979,4.331741541
+Pakistan,PAK,GDP growth (annual %),1979,3.758435569
+Panama,PAN,GDP growth (annual %),1979,4.507880533
+Papua New Guinea,PNG,GDP growth (annual %),1979,1.832395513
+Paraguay,PRY,GDP growth (annual %),1979,11.86214697
+Peru,PER,GDP growth (annual %),1979,5.796396827
+Philippines,PHL,GDP growth (annual %),1979,5.639675746
+Portugal,PRT,GDP growth (annual %),1979,5.638937405
+Puerto Rico,PRI,GDP growth (annual %),1979,7.906824991
+Rwanda,RWA,GDP growth (annual %),1979,11.86990803
+San Marino,SMR,GDP growth (annual %),1979,5.959271355
+Saudi Arabia,SAU,GDP growth (annual %),1979,9.743485308
+Senegal,SEN,GDP growth (annual %),1979,7.001685615
+Seychelles,SYC,GDP growth (annual %),1979,15.79434062
+Sierra Leone,SLE,GDP growth (annual %),1979,4.511265607
+Singapore,SGP,GDP growth (annual %),1979,9.419556972
+Somalia,SOM,GDP growth (annual %),1979,-2.708465849
+South Africa,ZAF,GDP growth (annual %),1979,3.790545406
+Spain,ESP,GDP growth (annual %),1979,0.041546504
+Sri Lanka,LKA,GDP growth (annual %),1979,6.403541156
+St. Kitts and Nevis,KNA,GDP growth (annual %),1979,7.474313064
+St. Vincent and the Grenadines,VCT,GDP growth (annual %),1979,3.382857203
+Sudan,SDN,GDP growth (annual %),1979,-5.018599329
+Suriname,SUR,GDP growth (annual %),1979,-6.026673579
+Swaziland,SWZ,GDP growth (annual %),1979,3.106945528
+Sweden,SWE,GDP growth (annual %),1979,3.840003515
+Syrian Arab Republic,SYR,GDP growth (annual %),1979,3.632355619
+Thailand,THA,GDP growth (annual %),1979,5.371766513
+Togo,TGO,GDP growth (annual %),1979,-5.167742641
+Trinidad and Tobago,TTO,GDP growth (annual %),1979,3.599370746
+Tunisia,TUN,GDP growth (annual %),1979,6.567521261
+Turkey,TUR,GDP growth (annual %),1979,-0.624113561
+United Arab Emirates,ARE,GDP growth (annual %),1979,20.92357308
+United Kingdom,GBR,GDP growth (annual %),1979,3.676572556
+United States,USA,GDP growth (annual %),1979,3.17569075
+Uruguay,URY,GDP growth (annual %),1979,6.199116731
+"Venezuela, RB",VEN,GDP growth (annual %),1979,0.764355286
+Virgin Islands (U.S.),VIR,GDP growth (annual %),1979,8.871999273
+Zambia,ZMB,GDP growth (annual %),1979,-3.02393083
+Zimbabwe,ZWE,GDP growth (annual %),1979,3.297035399
+Arab World,ARB,GDP growth (annual %),1980,9.586066132
+Caribbean small states,CSS,GDP growth (annual %),1980,-0.84568504
+East Asia & Pacific (all income levels),EAS,GDP growth (annual %),1980,3.328131722
+East Asia & Pacific (developing only),EAP,GDP growth (annual %),1980,7.20971215
+Euro area,EMU,GDP growth (annual %),1980,2.151675094
+Europe & Central Asia (all income levels),ECS,GDP growth (annual %),1980,1.358755618
+European Union,EUU,GDP growth (annual %),1980,1.372004609
+Heavily indebted poor countries (HIPC),HPC,GDP growth (annual %),1980,-0.489935523
+High income,HIC,GDP growth (annual %),1980,1.302861663
+High income: OECD,OEC,GDP growth (annual %),1980,1.092899831
+Latin America & Caribbean (all income levels),LCN,GDP growth (annual %),1980,6.394419046
+Latin America & Caribbean (developing only),LAC,GDP growth (annual %),1980,7.725919149
+Low & middle income,LMY,GDP growth (annual %),1980,4.93395539
+Lower middle income,LMC,GDP growth (annual %),1980,5.2500621
+Middle East & North Africa (all income levels),MEA,GDP growth (annual %),1980,2.796361554
+Middle East & North Africa (developing only),MNA,GDP growth (annual %),1980,-6.083542207
+Middle income,MIC,GDP growth (annual %),1980,4.983615991
+North America,NAC,GDP growth (annual %),1980,-0.02620464
+OECD members,OED,GDP growth (annual %),1980,1.256471993
+Pacific island small states,PSS,GDP growth (annual %),1980,-4.561053309
+Small states,SST,GDP growth (annual %),1980,-0.392988708
+South Asia,SAS,GDP growth (annual %),1980,6.47036928
+Sub-Saharan Africa (all income levels),SSF,GDP growth (annual %),1980,4.0175985
+Sub-Saharan Africa (developing only),SSA,GDP growth (annual %),1980,4.030113279
+Upper middle income,UMC,GDP growth (annual %),1980,4.898357263
+World,WLD,GDP growth (annual %),1980,1.753516726
+Algeria,DZA,GDP growth (annual %),1980,0.790606971
+Andorra,ADO,GDP growth (annual %),1980,2.208728144
+Antigua and Barbuda,ATG,GDP growth (annual %),1980,8.59506429
+Argentina,ARG,GDP growth (annual %),1980,4.151762342
+Australia,AUS,GDP growth (annual %),1980,3.051391053
+Austria,AUT,GDP growth (annual %),1980,1.731485369
+"Bahamas, The",BHS,GDP growth (annual %),1980,6.495281921
+Bangladesh,BGD,GDP growth (annual %),1980,0.819141869
+Belgium,BEL,GDP growth (annual %),1980,4.444054049
+Belize,BLZ,GDP growth (annual %),1980,15.16651808
+Benin,BEN,GDP growth (annual %),1980,6.781763875
+Bermuda,BMU,GDP growth (annual %),1980,7.943925234
+Bolivia,BOL,GDP growth (annual %),1980,-1.371773316
+Botswana,BWA,GDP growth (annual %),1980,11.98690138
+Brazil,BRA,GDP growth (annual %),1980,9.110960155
+Brunei Darussalam,BRN,GDP growth (annual %),1980,-6.99670269
+Burkina Faso,BFA,GDP growth (annual %),1980,0.796878872
+Burundi,BDI,GDP growth (annual %),1980,0.991055725
+Cameroon,CMR,GDP growth (annual %),1980,-1.965291669
+Canada,CAN,GDP growth (annual %),1980,2.162616896
+Central African Republic,CAF,GDP growth (annual %),1980,-4.478599822
+Chad,TCD,GDP growth (annual %),1980,-6.047670747
+Chile,CHL,GDP growth (annual %),1980,8.148606529
+China,CHN,GDP growth (annual %),1980,7.806691451
+Colombia,COL,GDP growth (annual %),1980,4.098199161
+"Congo, Dem. Rep.",ZAR,GDP growth (annual %),1980,2.194912924
+"Congo, Rep.",COG,GDP growth (annual %),1980,17.63660548
+Costa Rica,CRI,GDP growth (annual %),1980,0.751895406
+Cote d'Ivoire,CIV,GDP growth (annual %),1980,-10.95769727
+Cuba,CUB,GDP growth (annual %),1980,-4.849443009
+Cyprus,CYP,GDP growth (annual %),1980,5.753245303
+Denmark,DNK,GDP growth (annual %),1980,-0.48754235
+Dominica,DMA,GDP growth (annual %),1980,14.26068471
+Dominican Republic,DOM,GDP growth (annual %),1980,7.968738509
+Ecuador,ECU,GDP growth (annual %),1980,3.708682969
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),1980,10.01133525
+El Salvador,SLV,GDP growth (annual %),1980,-11.77131766
+Fiji,FJI,GDP growth (annual %),1980,-1.6034563
+Finland,FIN,GDP growth (annual %),1980,5.389047425
+France,FRA,GDP growth (annual %),1980,1.588098817
+French Polynesia,PYF,GDP growth (annual %),1980,0.484901265
+Gabon,GAB,GDP growth (annual %),1980,2.552937158
+"Gambia, The",GMB,GDP growth (annual %),1980,6.270079608
+Georgia,GEO,GDP growth (annual %),1980,4.576266275
+Germany,DEU,GDP growth (annual %),1980,1.408828659
+Ghana,GHA,GDP growth (annual %),1980,0.471695943
+Greece,GRC,GDP growth (annual %),1980,0.677131022
+Greenland,GRL,GDP growth (annual %),1980,8.676005423
+Grenada,GRD,GDP growth (annual %),1980,-0.445671335
+Guatemala,GTM,GDP growth (annual %),1980,3.759978164
